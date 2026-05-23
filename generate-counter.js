@@ -55,10 +55,20 @@ JSON.stringify(data,null,2)
 }
 
 function getTodayDate(){
-return new Date().toLocaleDateString(
-"en-CA",
-{
-timeZone:"Asia/Jakarta"
+
+const now=
+new Date();
+
+return new Date(
+Date.UTC(
+now.getUTCFullYear(),
+now.getUTCMonth(),
+now.getUTCDate()
+)
+)
+.toISOString()
+.split("T")[0];
+
 }
 );
 }
