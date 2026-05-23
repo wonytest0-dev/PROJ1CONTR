@@ -2,13 +2,26 @@ const fs=require("fs");
 const axios=require("axios");
 const {chromium}=require("playwright");
 
-const ARTIST_ID="1oSPZhvZMIrWW5I41kPkkY";
-const ARTIST_URI=`spotify:artist:${ARTIST_ID}`;
-const SENTINEL_SONG="Who";
+const ARTIST_ID=
+"1oSPZhvZMIrWW5I41kPkkY";
 
-const SNAPSHOT_FILE="spotify-snapshot.json";
-const HISTORY_FILE="spotify-history.json";
-const COUNTER_FILE="counter.json";
+const ARTIST_URI=
+`spotify:artist:${ARTIST_ID}`;
+
+const SENTINEL_SONG=
+"Who";
+
+const SENTINEL_TRACK_ID=
+"7tI8dRuH2Yc6RuoTjxo4dU";
+
+const SNAPSHOT_FILE=
+"spotify-snapshot.json";
+
+const HISTORY_FILE=
+"spotify-history.json";
+
+const COUNTER_FILE=
+"counter.json";
 
 const DISCOGRAPHY_HASH=
 "5e07d323febb57b4a56a42abbf781490e58764aa45feb6e3dc0591564fc56599";
@@ -16,35 +29,64 @@ const DISCOGRAPHY_HASH=
 const TRACKS_HASH=
 "b9bfabef66ed756e5e13f68a942deb60bd4125ec1f1be8cc42769dc0259b4b10";
 
-function formatNumber(num){
+function formatNumber(
+num
+){
 
-if(!num)return"0";
+if(!num)
+return"0";
 
-if(num>=1_000_000_000){
+if(
+num>=
+1_000_000_000
+){
+
 return(
-(num/1_000_000_000)
+(num/
+1_000_000_000)
 .toFixed(2)
-.replace(/\.00$/,"")
+.replace(
+/\.00$/,
+""
+)
 )+"B";
+
 }
 
-if(num>=1_000_000){
+if(
+num>=
+1_000_000
+){
+
 return(
-(num/1_000_000)
+(num/
+1_000_000)
 .toFixed(1)
-.replace(/\.0$/,"")
+.replace(
+/\.0$/,
+""
+)
 )+"M";
+
 }
 
-if(num>=1_000){
+if(
+num>=1000
+){
+
 return(
-(num/1_000)
+(num/1000)
 .toFixed(1)
-.replace(/\.0$/,"")
+.replace(
+/\.0$/,
+""
+)
 )+"K";
+
 }
 
-return num.toString();
+return
+num.toString();
 
 }
 
@@ -56,7 +98,9 @@ fallback=null
 try{
 
 if(
-fs.existsSync(path)
+fs.existsSync(
+path
+)
 ){
 
 return JSON.parse(
@@ -131,7 +175,8 @@ page.on(
 request=>{
 
 if(
-request.url().includes(
+request.url()
+.includes(
 "api-partner.spotify.com"
 )
 ){
@@ -150,15 +195,18 @@ headers[
 ];
 
 if(
-auth?.startsWith(
+auth
+?.startsWith(
 "Bearer"
 )
 ){
-authToken=auth;
+authToken=
+auth;
 }
 
 if(client){
-clientToken=client;
+clientToken=
+client;
 }
 
 }
@@ -224,7 +272,8 @@ variables,
 extensions:{
 persistedQuery:{
 version:1,
-sha256Hash:hash
+sha256Hash:
+hash
 }
 }
 },
@@ -252,7 +301,8 @@ referer:
 }
 );
 
-return response.data;
+return
+response.data;
 
 }
 
@@ -324,9 +374,11 @@ item=>({
 title:
 item.track.name,
 
-streams:Number(
+streams:
+Number(
 item.track
-.playcount||0
+.playcount
+||0
 ),
 
 trackId:
@@ -343,13 +395,15 @@ image:
 release
 .coverArt
 ?.sources?.[0]
-?.url||null
+?.url
+||null
 
 })
 )||[]
 );
 
 }
+
 async function getArtistStats(
 authToken,
 clientToken
@@ -365,12 +419,19 @@ artistUri:
 ARTIST_URI,
 
 trackUri:
-"spotify:track:7tI8dRuH2Yc6RuoTjxo4dU",
+`spotify:track:${SENTINEL_TRACK_ID}`,
 
-contributorsLimit:10,
-contributorsOffset:0,
-enableRelatedVideos:false,
-enableRelatedAudioTracks:false
+contributorsLimit:
+10,
+
+contributorsOffset:
+0,
+
+enableRelatedVideos:
+false,
+
+enableRelatedAudioTracks:
+false
 },
 "b2cedf7ed0f29c713567d97ed69b848c8387294edfe58a0e439a3a5669cc27bb"
 );
@@ -379,7 +440,8 @@ return(
 data
 ?.data
 ?.artistUnion
-?.stats||{}
+?.stats
+||{}
 );
 
 }
@@ -390,10 +452,20 @@ songs
 
 return songs.find(
 song=>
-song.title===
-SENTINEL_SONG&&
-song.release===
-"MUSE"
+
+song.title
+.trim()
+.toLowerCase()
+===
+SENTINEL_SONG
+.toLowerCase()
+
+&&
+
+song.trackId
+===
+SENTINEL_TRACK_ID
+
 );
 
 }
@@ -410,10 +482,11 @@ snapshot
 song=>
 song.title===
 title
-)||null
+)
+||null
 );
 
-}
+  }
 
 async function generateCounter(){
 
@@ -430,15 +503,19 @@ clientToken
 await getSpotifyAuth();
 
 if(!authToken){
+
 throw new Error(
 "No Spotify auth token found"
 );
+
 }
 
 if(!clientToken){
+
 throw new Error(
 "No client token found"
 );
+
 }
 
 console.log(
@@ -452,10 +529,13 @@ console.log(
 const museRelease={
 uri:
 "spotify:album:15XcLhiVMlSOipUddTNDnr",
+
 name:
 "MUSE",
+
 type:
 "ALBUM",
+
 coverArt:{
 sources:[]
 }
@@ -471,14 +551,28 @@ museRelease
 const sentinelSong=
 whoTracks.find(
 track=>
-track.title===
-"Who"
+
+track.title
+.trim()
+.toLowerCase()
+==="who"
+
+&&
+
+track.trackId
+===
+SENTINEL_TRACK_ID
+
 );
 
-if(!sentinelSong){
+if(
+!sentinelSong
+){
+
 throw new Error(
 "Who not found"
 );
+
 }
 
 const snapshot=
@@ -492,16 +586,26 @@ HISTORY_FILE,
 []
 );
 
-if(
+const previousWho=
 snapshot
 ?.sentinel
-?.streams===
+?.streams
+?? 0;
+
+const currentWho=
 sentinelSong
 ?.streams
+?? 0;
+
+if(
+previousWho
+===
+currentWho
 ){
 
 console.log(
-"⏸ Spotify not updated yet"
+`⏸ Who unchanged:
+${currentWho}`
 );
 
 return;
@@ -509,7 +613,10 @@ return;
 }
 
 console.log(
-"🚀 Spotify updated!"
+`🚀 Who updated:
+${previousWho}
+→
+${currentWho}`
 );
 
 const artistStats=
@@ -560,28 +667,36 @@ song.title
 
 const previousStreams=
 previous
-?.streams||
+?.streams
+||
 song.streams;
 
 const dailyGain=
-song.streams-
+song.streams
+-
 previousStreams;
 
 const yesterdayGain=
 previous
-?.dailyGain||
+?.dailyGain
+||
 0;
 
 const gainDifference=
-dailyGain-
+dailyGain
+-
 yesterdayGain;
 
 return{
 
 ...song,
+
 previousStreams,
+
 dailyGain,
+
 yesterdayGain,
+
 gainDifference,
 
 formattedStreams:
@@ -609,6 +724,7 @@ gainDifference
 
 }
 );
+
 const songMap=
 new Map();
 
@@ -624,8 +740,10 @@ key
 );
 
 if(
-!existing||
-song.streams>
+!existing
+||
+song.streams
+>
 existing.streams
 ){
 
@@ -648,27 +766,32 @@ const totalDailyGain=
 uniqueSongs.reduce(
 (sum,song)=>
 sum+
-(song.dailyGain||0),
+(song.dailyGain
+||0),
 0
 );
 
 const previousHistory=
 history[
-history.length-1
+history.length
+-1
 ];
 
 const previousTotal=
 previousHistory
-?.totalStreams||0;
+?.totalStreams
+||0;
 
 const totalStreams=
-previousTotal+
+previousTotal
++
 totalDailyGain;
 
 const sortedSongs=
 uniqueSongs.sort(
 (a,b)=>
-b.streams-
+b.streams
+-
 a.streams
 );
 
@@ -692,12 +815,17 @@ key,
 {
 title:
 song.release,
+
 type:
 song.releaseType,
+
 image:
 song.image,
+
 streams:0,
+
 dailyGain:0,
+
 songs:[]
 }
 );
@@ -710,10 +838,12 @@ key
 );
 
 release.streams+=
-song.streams||0;
+song.streams
+||0;
 
 release.dailyGain+=
-song.dailyGain||0;
+song.dailyGain
+||0;
 
 release.songs.push(
 song
@@ -722,7 +852,8 @@ song
 }
 );
 
-const final={
+  const final={
+
 updated:
 getTodayDate(),
 
@@ -730,26 +861,34 @@ spotifyUpdated:
 true,
 
 artist:{
-name:"Jimin",
+
+name:
+"Jimin",
 
 followers:
-artistStats.followers,
+artistStats
+.followers,
 
 formattedFollowers:
 formatNumber(
-artistStats.followers
+artistStats
+.followers
 ),
 
 monthlyListeners:
-artistStats.monthlyListeners,
+artistStats
+.monthlyListeners,
 
 formattedMonthlyListeners:
 formatNumber(
-artistStats.monthlyListeners
+artistStats
+.monthlyListeners
 )
+
 },
 
 summary:{
+
 totalStreams,
 
 formattedStreams:
@@ -763,6 +902,7 @@ formattedDailyGain:
 `+${formatNumber(
 totalDailyGain
 )}`
+
 },
 
 songs:
@@ -770,12 +910,16 @@ sortedSongs,
 
 releases:
 Array.from(
-releaseMap.values()
-).sort(
+releaseMap
+.values()
+)
+.sort(
 (a,b)=>
-b.streams-
+b.streams
+-
 a.streams
 )
+
 };
 
 saveJSON(
@@ -786,6 +930,7 @@ final
 saveJSON(
 SNAPSHOT_FILE,
 {
+
 updated:
 getTodayDate(),
 
@@ -795,6 +940,7 @@ sentinelSong,
 songs:
 processedSongs.map(
 song=>({
+
 title:
 song.title,
 
@@ -803,12 +949,15 @@ song.streams,
 
 dailyGain:
 song.dailyGain
+
 })
 )
+
 }
 );
 
 history.push({
+
 date:
 getTodayDate(),
 
@@ -819,6 +968,7 @@ sentinelSong
 totalStreams,
 
 totalDailyGain
+
 });
 
 saveJSON(
