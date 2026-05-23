@@ -744,12 +744,12 @@
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
       "previousStreams": 74943378,
-      "dailyGain": 0,
-      "yesterdayGain": 0,
-      "gainDifference": 0,
+           "dailyGain": 43944,
+      "yesterdayGain": 38226,
+      "gainDifference": 5678,
       "formattedStreams": "74.9M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "0"
+      "formattedDailyGain": "+44.0k",
+      "formattedGainDifference": "+6.0k"
     },
     {
       "title": "Who (Rock Remix)",
@@ -759,12 +759,12 @@
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
       "previousStreams": 74943378,
-      "dailyGain": 0,
-      "yesterdayGain": 0,
-      "gainDifference": 0,
+      "dailyGain": 43944,
+      "yesterdayGain": 38226,
+      "gainDifference": 5678,
       "formattedStreams": "74.9M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "0"
+      "formattedDailyGain": "+44.0k",
+      "formattedGainDifference": "+6.0k"
     },
     {
       "title": "Who (Acoustic Remix)",
@@ -774,12 +774,12 @@
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
       "previousStreams": 73393396,
-      "dailyGain": 0,
-      "yesterdayGain": 0,
-      "gainDifference": 0,
+      "dailyGain": 30790,
+      "yesterdayGain": 25703,
+      "gainDifference": 5087,
       "formattedStreams": "73.4M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "0"
+      "formattedDailyGain": "+30.8k",
+      "formattedGainDifference": "+5.0k"
     },
     {
       "title": "Who (Acoustic Remix)",
@@ -789,12 +789,12 @@
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
       "previousStreams": 73393396,
-      "dailyGain": 0,
-      "yesterdayGain": 0,
-      "gainDifference": 0,
+      "dailyGain": 30790,
+      "yesterdayGain": 25703,
+      "gainDifference": 5087,
       "formattedStreams": "73.4M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "0"
+      "formattedDailyGain": "+30.8k",
+      "formattedGainDifference": "+5.0k"
     },
     {
       "title": "Who (Shibuyakei Remix)",
@@ -804,12 +804,12 @@
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
       "previousStreams": 60828372,
-      "dailyGain": 0,
-      "yesterdayGain": 0,
-      "gainDifference": 0,
+      "dailyGain": 22570,
+      "yesterdayGain": 16868,
+      "gainDifference": 5702,
       "formattedStreams": "60.8M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "0"
+      "formattedDailyGain": "+22.6k",
+      "formattedGainDifference": "+5.8k"
     },
     {
       "title": "Who (Shibuyakei Remix)",
@@ -819,12 +819,12 @@
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
       "previousStreams": 60828372,
-      "dailyGain": 0,
-      "yesterdayGain": 0,
-      "gainDifference": 0,
+      "dailyGain": 22570,
+      "yesterdayGain": 16868,
+      "gainDifference": 5702,
       "formattedStreams": "60.8M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "0"
+      "formattedDailyGain": "+22.6k",
+      "formattedGainDifference": "+5.8k"
     },
     {
       "title": "Who (Instrumental)",
@@ -834,12 +834,12 @@
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
       "previousStreams": 59835425,
-      "dailyGain": 0,
-      "yesterdayGain": 0,
-      "gainDifference": 0,
+      "dailyGain": 20419,
+      "yesterdayGain": 16574,
+      "gainDifference": 3845,
       "formattedStreams": "59.8M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "0"
+      "formattedDailyGain": "+16.6k",
+      "formattedGainDifference": "4.0k"
     },
     {
       "title": "Who (Instrumental)",
@@ -849,12 +849,12 @@
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
       "previousStreams": 59835425,
-      "dailyGain": 0,
-      "yesterdayGain": 0,
-      "gainDifference": 0,
+      "dailyGain": 20419,
+      "yesterdayGain": 16574,
+      "gainDifference": 3845,
       "formattedStreams": "59.8M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "0"
+      "formattedDailyGain": "+16.6k",
+      "formattedGainDifference": "4.0k"
     },
     {
       "title": "Who (Funky Remix)",
@@ -864,12 +864,12 @@
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
       "previousStreams": 58502733,
-      "dailyGain": 0,
-      "yesterdayGain": 0,
-      "gainDifference": 0,
+      "dailyGain": 19735,
+      "yesterdayGain": 3283,
+      "gainDifference": 16452,
       "formattedStreams": "58.5M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "0"
+      "formattedDailyGain": "+19.8k",
+      "formattedGainDifference": "+3.2k"
     },
     {
       "title": "Who (Funky Remix)",
@@ -879,12 +879,12 @@
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
       "previousStreams": 58502733,
-      "dailyGain": 0,
-      "yesterdayGain": 0,
-      "gainDifference": 0,
+       "dailyGain": 19735,
+      "yesterdayGain": 3283,
+      "gainDifference": 16452,
       "formattedStreams": "58.5M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "0"
+      "formattedDailyGain": "+19.8k",
+      "formattedGainDifference": "+3.2k"
     },
     {
       "title": "Who (Beautiful Mind Remix)",
@@ -894,12 +894,12 @@
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
       "previousStreams": 58232917,
-      "dailyGain": 0,
-      "yesterdayGain": 0,
-      "gainDifference": 0,
-      "formattedStreams": "58.2M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "0"
+     "dailyGain": 19605,
+          "yesterdayGain": 16059,
+          "gainDifference": 3546,
+          "formattedStreams": "58.2M",
+          "formattedDailyGain": "+19.7k",
+          "formattedGainDifference": "+3.6k"
     },
     {
       "title": "Who (Beautiful Mind Remix)",
@@ -909,12 +909,12 @@
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
       "previousStreams": 58232917,
-      "dailyGain": 0,
-      "yesterdayGain": 0,
-      "gainDifference": 0,
-      "formattedStreams": "58.2M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "0"
+     "dailyGain": 19605,
+          "yesterdayGain": 16059,
+          "gainDifference": 3546,
+          "formattedStreams": "58.2M",
+          "formattedDailyGain": "+19.7k",
+          "formattedGainDifference": "+3.6k"
     },
     {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
@@ -1233,12 +1233,12 @@
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
           "previousStreams": 74943378,
-          "dailyGain": 0,
-          "yesterdayGain": 0,
-          "gainDifference": 0,
-          "formattedStreams": "74.9M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "0"
+               "dailyGain": 43944,
+      "yesterdayGain": 38226,
+      "gainDifference": 5678,
+      "formattedStreams": "74.9M",
+      "formattedDailyGain": "+44.0k",
+      "formattedGainDifference": "+6.0k"
         },
         {
           "title": "Who (Acoustic Remix)",
@@ -1248,12 +1248,12 @@
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
           "previousStreams": 73393396,
-          "dailyGain": 0,
-          "yesterdayGain": 0,
-          "gainDifference": 0,
-          "formattedStreams": "73.4M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "0"
+           "dailyGain": 30790,
+      "yesterdayGain": 25703,
+      "gainDifference": 5087,
+      "formattedStreams": "73.4M",
+      "formattedDailyGain": "+30.8k",
+      "formattedGainDifference": "+5.0k"
         },
         {
           "title": "Who (Instrumental)",
@@ -1263,12 +1263,12 @@
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
           "previousStreams": 59835425,
-          "dailyGain": 0,
-          "yesterdayGain": 0,
-          "gainDifference": 0,
-          "formattedStreams": "59.8M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "0"
+          "dailyGain": 20419,
+      "yesterdayGain": 16574,
+      "gainDifference": 3845,
+      "formattedStreams": "59.8M",
+      "formattedDailyGain": "+16.6k",
+      "formattedGainDifference": "4.0k"
         }
       ]
     },
@@ -1392,12 +1392,12 @@
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
           "previousStreams": 60828372,
-          "dailyGain": 0,
-          "yesterdayGain": 0,
-          "gainDifference": 0,
-          "formattedStreams": "60.8M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "0"
+           "dailyGain": 22570,
+      "yesterdayGain": 16868,
+      "gainDifference": 5702,
+      "formattedStreams": "60.8M",
+      "formattedDailyGain": "+22.6k",
+      "formattedGainDifference": "+5.8k"
         },
         {
           "title": "Who (Funky Remix)",
@@ -1407,12 +1407,12 @@
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
           "previousStreams": 58502733,
-          "dailyGain": 0,
-          "yesterdayGain": 0,
-          "gainDifference": 0,
-          "formattedStreams": "58.5M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "0"
+           "dailyGain": 19735,
+      "yesterdayGain": 3283,
+      "gainDifference": 16452,
+      "formattedStreams": "58.5M",
+      "formattedDailyGain": "+19.8k",
+      "formattedGainDifference": "+3.2k"
         },
         {
           "title": "Who (Beautiful Mind Remix)",
@@ -1422,12 +1422,12 @@
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
           "previousStreams": 58232917,
-          "dailyGain": 0,
-          "yesterdayGain": 0,
-          "gainDifference": 0,
+         "dailyGain": 19605,
+          "yesterdayGain": 16059,
+          "gainDifference": 3546,
           "formattedStreams": "58.2M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "0"
+          "formattedDailyGain": "+19.7k",
+          "formattedGainDifference": "+3.6k"
         }
       ]
     },
@@ -1575,12 +1575,12 @@
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
           "previousStreams": 74943378,
-          "dailyGain": 0,
-          "yesterdayGain": 0,
-          "gainDifference": 0,
-          "formattedStreams": "74.9M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "0"
+               "dailyGain": 43944,
+      "yesterdayGain": 38226,
+      "gainDifference": 5678,
+      "formattedStreams": "74.9M",
+      "formattedDailyGain": "+44.0k",
+      "formattedGainDifference": "+6.0k"
         },
         {
           "title": "Who (Acoustic Remix)",
@@ -1590,12 +1590,12 @@
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
           "previousStreams": 73393396,
-          "dailyGain": 0,
-          "yesterdayGain": 0,
-          "gainDifference": 0,
-          "formattedStreams": "73.4M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "0"
+           "dailyGain": 30790,
+      "yesterdayGain": 25703,
+      "gainDifference": 5087,
+      "formattedStreams": "73.4M",
+      "formattedDailyGain": "+30.8k",
+      "formattedGainDifference": "+5.0k"
         },
         {
           "title": "Who (Shibuyakei Remix)",
@@ -1605,12 +1605,12 @@
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
           "previousStreams": 60828372,
-          "dailyGain": 0,
-          "yesterdayGain": 0,
-          "gainDifference": 0,
-          "formattedStreams": "60.8M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "0"
+          "dailyGain": 22570,
+      "yesterdayGain": 16868,
+      "gainDifference": 5702,
+      "formattedStreams": "60.8M",
+      "formattedDailyGain": "+22.6k",
+      "formattedGainDifference": "+5.8k"
         },
         {
           "title": "Who (Instrumental)",
@@ -1620,12 +1620,12 @@
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
           "previousStreams": 59835425,
-          "dailyGain": 0,
-          "yesterdayGain": 0,
-          "gainDifference": 0,
-          "formattedStreams": "59.8M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "0"
+          "dailyGain": 20419,
+      "yesterdayGain": 16574,
+      "gainDifference": 3845,
+      "formattedStreams": "59.8M",
+      "formattedDailyGain": "+16.6k",
+      "formattedGainDifference": "4.0k"
         },
         {
           "title": "Who (Funky Remix)",
@@ -1635,12 +1635,12 @@
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
           "previousStreams": 58502733,
-          "dailyGain": 0,
-          "yesterdayGain": 0,
-          "gainDifference": 0,
-          "formattedStreams": "58.5M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "0"
+           "dailyGain": 19735,
+      "yesterdayGain": 3283,
+      "gainDifference": 16452,
+      "formattedStreams": "58.5M",
+      "formattedDailyGain": "+19.8k",
+      "formattedGainDifference": "+3.2k"
         },
         {
           "title": "Who (Beautiful Mind Remix)",
@@ -1650,12 +1650,12 @@
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
           "previousStreams": 58232917,
-          "dailyGain": 0,
-          "yesterdayGain": 0,
-          "gainDifference": 0,
+          "dailyGain": 19605,
+          "yesterdayGain": 16059,
+          "gainDifference": 3546,
           "formattedStreams": "58.2M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "0"
+          "formattedDailyGain": "+19.7k",
+          "formattedGainDifference": "+3.6k"
         }
       ]
     },
@@ -1749,12 +1749,12 @@
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
           "previousStreams": 125563880,
-          "dailyGain": 0,
-          "yesterdayGain": 0,
-          "gainDifference": 0,
-          "formattedStreams": "125.6M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "0"
+         "dailyGain": 20000,
+      "yesterdayGain": 19532,
+      "gainDifference": 468,
+      "formattedStreams": "125.6M",
+      "formattedDailyGain": "+20k",
+      "formattedGainDifference": "+468"
         }
       ]
     },
