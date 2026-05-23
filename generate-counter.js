@@ -315,7 +315,41 @@ release
 ) || []
 );
 
-  }
+}
+
+async function getArtistStats(
+authToken,
+clientToken
+){
+
+const data=
+await spotifyQuery(
+authToken,
+clientToken,
+"queryNpvArtist",
+{
+artistUri:
+ARTIST_URI,
+
+trackUri:
+"spotify:track:7tI8dRuH2Yc6RuoTjxo4dU",
+
+contributorsLimit:10,
+contributorsOffset:0,
+enableRelatedVideos:false,
+enableRelatedAudioTracks:false
+},
+"b2cedf7ed0f29c713567d97ed69b848c8387294edfe58a0e439a3a5669cc27bb"
+);
+
+return(
+data
+?.data
+?.artistUnion
+?.stats || {}
+);
+
+}
 
 function getSentinelSong(
 songs
@@ -368,8 +402,7 @@ title
 ) || null
 );
 
-}
-
+  }
 async function generateCounter(){
 
 try{
@@ -468,6 +501,12 @@ return;
 
 console.log(
 "🚀 Spotify updated!"
+);
+
+const artistStats=
+await getArtistStats(
+authToken,
+clientToken
 );
 
 console.log(
@@ -570,24 +609,56 @@ gainDifference
 }
 );
 
+const songMap=
+new Map();
+
+processedSongs.forEach(
+song=>{
+
+const existing=
+songMap.get(
+song.title
+);
+
+if(
+!existing ||
+song.streams >
+existing.streams
+){
+
+songMap.set(
+song.title,
+song
+);
+
+}
+
+}
+);
+
+const uniqueSongs=
+Array.from(
+songMap.values()
+);
+
 const totalStreams=
-processedSongs.reduce(
+uniqueSongs.reduce(
 (sum,song)=>
 sum+
-song.streams,
+(song.streams||0),
 0
 );
 
 const totalDailyGain=
-processedSongs.reduce(
+uniqueSongs.reduce(
 (sum,song)=>
 sum+
-song.dailyGain,
+(song.dailyGain||0),
 0
 );
 
 const sortedSongs=
-processedSongs.sort(
+uniqueSongs.sort(
 (a,b)=>
 b.streams-
 a.streams
@@ -654,6 +725,26 @@ getTodayDate(),
 
 spotifyUpdated:
 true,
+
+artist:{
+name:"Jimin",
+
+followers:
+artistStats.followers,
+
+formattedFollowers:
+formatNumber(
+artistStats.followers
+),
+
+monthlyListeners:
+artistStats.monthlyListeners,
+
+formattedMonthlyListeners:
+formatNumber(
+artistStats.monthlyListeners
+)
+},
 
 summary:{
 totalStreams,
@@ -762,4 +853,3 @@ err.message
 }
 
 generateCounter();
-
