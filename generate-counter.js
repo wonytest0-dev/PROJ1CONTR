@@ -70,7 +70,6 @@ now.getUTCDate()
 .split("T")[0];
 
 }
-);
 }
 
 async function getSpotifyAuth(){
