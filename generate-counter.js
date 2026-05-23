@@ -526,7 +526,7 @@ song.title
 const previousStreams=
 previous
 ?.streams
-||
+??
 song.streams;
 
 const dailyGain=
