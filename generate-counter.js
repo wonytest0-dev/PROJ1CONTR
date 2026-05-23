@@ -463,11 +463,11 @@ currentWho
 ){
 
 console.log(
-`⏸ Who unchanged:
-${currentWho}`
+"⏸ Spotify not updated yet"
 );
 
-return;
+process.exit(0);
+
 }
 
 console.log(
