@@ -161,7 +161,7 @@ referer:"https://open.spotify.com/",
 );
 
 return response.data;
-  }
+}
 async function getAllReleases(
 authToken,
 clientToken
@@ -400,8 +400,9 @@ if(!sentinelSong){
 throw new Error(
 "Who not found"
 );
-  }
-  const snapshot=
+}
+
+const snapshot=
 readJSON(
 SNAPSHOT_FILE
 );
@@ -796,3 +797,4 @@ err.message
 }
 
 generateCounter();
+
