@@ -536,7 +536,7 @@ previousStreams;
 const yesterdayGain=
 previous
 ?.dailyGain
-||0;
+??0;
 
 const gainDifference=
 dailyGain-
