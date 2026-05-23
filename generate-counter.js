@@ -515,30 +515,42 @@ async function generateCounter() {
         };
       });
 
-    const songMap =
-      new Map();
+const songMap=
+new Map();
 
-    processedSongs.forEach(
-      song => {
-        const existing =
-          songMap.get(
-            song.title
-          );
+processedSongs.forEach(
+song=>{
 
-        if (
-          !existing ||
-          song.streams >
-            existing.streams
-        ) {
-          songMap.set(
-            song.title,
-            song
-          );
-        }
-      }
-    );
+const key=
+`${song.streams}-${song.dailyGain}`;
 
-    const uniqueSongs =
+const existing=
+songMap.get(
+key
+);
+
+if(
+!existing ||
+song.streams >
+existing.streams
+){
+
+songMap.set(
+key,
+song
+);
+
+}
+
+}
+);
+
+const uniqueSongs=
+Array.from(
+songMap.values()
+);
+
+const uniqueSongs =
       Array.from(
         songMap.values()
       );
