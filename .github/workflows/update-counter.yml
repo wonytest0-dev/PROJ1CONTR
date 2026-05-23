@@ -1,11 +1,6 @@
 name: Update Spotify Counter
 
 on:
-  schedule:
-    # 19:00 WIB - 03:00 WIB
-    # WIB = UTC+7
-    - cron: "0,30 12-20 * * *"
-
   workflow_dispatch:
 
 jobs:
