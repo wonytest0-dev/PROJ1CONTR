@@ -1,32 +1,8 @@
 [
   {
-    "date": "2026-05-21",
-    "sentinel": 2420711528,
-    "totalStreams": 8314397809,
-    "totalDailyGain": 3175373
-  },
-  {
-    "date": "2026-05-22",
-    "sentinel": 2422232643,
-    "totalStreams": 8317748345,
-    "totalDailyGain": 3403663
-  },
-  {
-    "date": "2026-05-23",
-    "sentinel": 2423502121,
-    "totalStreams": 8321051762,
-    "totalDailyGain": 3303417
-  },
-  {
-    "date": "2026-05-24",
-    "sentinel": 2425094453,
-    "totalStreams": 8324708264,
-    "totalDailyGain": 3656502
-  },
-  {
     "date": "2026-05-25",
     "sentinel": 2426753388,
-    "totalStreams": 8328683051,
-    "totalDailyGain": 3974787
+    "totalStreams": 8327457614,
+    "totalDailyGain": 3539193
   }
 ]
