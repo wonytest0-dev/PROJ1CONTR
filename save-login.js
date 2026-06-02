@@ -18,7 +18,7 @@ const { chromium } =
   );
 
   console.log(
-    "😭 LOGIN MANUAL DULU"
+    "LOGIN MANUAL DULU"
   );
 
   // tunggu kamu login
