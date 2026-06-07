@@ -70,5 +70,11 @@
     "sentinel": 2433541756,
     "totalStreams": 8350811835,
     "totalDailyGain": 3541360
+  },
+  {
+    "date": "2026-06-06",
+    "sentinel": 2435176188,
+    "totalStreams": 8354290627,
+    "totalDailyGain": 3478792
   }
 ]
