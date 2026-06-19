@@ -48,9 +48,7 @@ jobs:
 
       - name: Copy generated files
         run: |
-          cp spotify-counter-private/counter.json .
-          cp spotify-counter-private/spotify-snapshot.json .
-          cp spotify-counter-private/spotify-history.json .
+          cp -f spotify-counter-private/*.json . 2>/dev/null || true
 
       - name: Commit updated files
         run: |
