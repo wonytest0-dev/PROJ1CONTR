@@ -11,8 +11,12 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repo
+      - name: Checkout public repo
         uses: actions/checkout@v4
+
+      - name: Clone private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.PRIVATE_REPO_PAT }}@github.com/wonytest0-dev/spotify-counter-private.git
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -20,19 +24,28 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
+        working-directory: spotify-counter-private
         run: npm install
 
       - name: Install Playwright
+        working-directory: spotify-counter-private
         run: npx playwright install chromium --with-deps
 
       - name: Restore Spotify Login
         run: |
-          cat << 'EOF' > spotify-login.json
+          cat << 'EOF' > spotify-counter-private/spotify-login.json
           ${{ secrets.SPOTIFY_LOGIN_JSON }}
           EOF
 
       - name: Run Counter
+        working-directory: spotify-counter-private
         run: node generate-counter.js
+
+      - name: Copy generated files
+        run: |
+          cp spotify-counter-private/counter.json .
+          cp spotify-counter-private/spotify-snapshot.json .
+          cp spotify-counter-private/spotify-history.json .
 
       - name: Commit updated files
         run: |
