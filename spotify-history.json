@@ -1,8 +1,152 @@
 [
   {
-    "date": "2026-06-19",
-    "sentinel": 2453372451,
-    "totalStreams": 8394859522,
+    "date": "2026-05-25",
+    "sentinel": 2426753388,
+    "totalStreams": 8327457614,
+    "totalDailyGain": 3539193
+  },
+  {
+    "date": "2026-05-26",
+    "sentinel": 2428388027,
+    "totalStreams": 8330932526,
+    "totalDailyGain": 3474912
+  },
+  {
+    "date": "2026-05-27",
+    "sentinel": 2429969998,
+    "totalStreams": 8334349609,
+    "totalDailyGain": 3417083
+  },
+  {
+    "date": "2026-05-28",
+    "sentinel": 2431559635,
+    "totalStreams": 8337799604,
+    "totalDailyGain": 3449995
+  },
+  {
+    "date": "2026-05-29",
+    "sentinel": 2433158604,
+    "totalStreams": 8341187145,
+    "totalDailyGain": 3387541
+  },
+  {
+    "date": "2026-05-30",
+    "sentinel": 2434522349,
+    "totalStreams": 8344191982,
+    "totalDailyGain": 3004837
+  },
+  {
+    "date": "2026-05-31",
+    "sentinel": 2436184964,
+    "totalStreams": 8347541366,
+    "totalDailyGain": 3349384
+  },
+  {
+    "date": "2026-06-01",
+    "sentinel": 2427028244,
+    "totalStreams": 8336686938,
     "totalDailyGain": 0
+  },
+  {
+    "date": "2026-06-02",
+    "sentinel": 2428621569,
+    "totalStreams": 8340151050,
+    "totalDailyGain": 3464112
+  },
+  {
+    "date": "2026-06-03",
+    "sentinel": 2430271822,
+    "totalStreams": 8343718821,
+    "totalDailyGain": 3567771
+  },
+  {
+    "date": "2026-06-04",
+    "sentinel": 2431898808,
+    "totalStreams": 8347270475,
+    "totalDailyGain": 3551654
+  },
+  {
+    "date": "2026-06-05",
+    "sentinel": 2433541756,
+    "totalStreams": 8350811835,
+    "totalDailyGain": 3541360
+  },
+  {
+    "date": "2026-06-06",
+    "sentinel": 2435176188,
+    "totalStreams": 8354290627,
+    "totalDailyGain": 3478792
+  },
+  {
+    "date": "2026-06-07",
+    "sentinel": 2436763075,
+    "totalStreams": 8357613706,
+    "totalDailyGain": 3323079
+  },
+  {
+    "date": "2026-06-08",
+    "sentinel": 2438431966,
+    "totalStreams": 8361175891,
+    "totalDailyGain": 3562185
+  },
+  {
+    "date": "2026-06-09",
+    "sentinel": 2440003342,
+    "totalStreams": 8364670068,
+    "totalDailyGain": 3494177
+  },
+  {
+    "date": "2026-06-10",
+    "sentinel": 2441592596,
+    "totalStreams": 8368160704,
+    "totalDailyGain": 3490636
+  },
+  {
+    "date": "2026-06-11",
+    "sentinel": 2443167157,
+    "totalStreams": 8371625992,
+    "totalDailyGain": 3465288
+  },
+  {
+    "date": "2026-06-12",
+    "sentinel": 2444732146,
+    "totalStreams": 8375183242,
+    "totalDailyGain": 3557250
+  },
+  {
+    "date": "2026-06-13",
+    "sentinel": 2446248186,
+    "totalStreams": 8378485309,
+    "totalDailyGain": 3302067
+  },
+  {
+    "date": "2026-06-14",
+    "sentinel": 2447637208,
+    "totalStreams": 8381557894,
+    "totalDailyGain": 3072585
+  },
+  {
+    "date": "2026-06-15",
+    "sentinel": 2449145817,
+    "totalStreams": 8385048774,
+    "totalDailyGain": 3490880
+  },
+  {
+    "date": "2026-06-16",
+    "sentinel": 2450666466,
+    "totalStreams": 8388553100,
+    "totalDailyGain": 3504326
+  },
+  {
+    "date": "2026-06-17",
+    "sentinel": 2451920992,
+    "totalStreams": 8391576722,
+    "totalDailyGain": 3023622
+  },
+  {
+    "date": "2026-06-18",
+    "sentinel": 2453372451,
+    "totalStreams": 13343502855,
+    "totalDailyGain": 3024104
   }
 ]
