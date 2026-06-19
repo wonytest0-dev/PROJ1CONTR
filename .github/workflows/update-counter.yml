@@ -37,6 +37,11 @@ jobs:
           ${{ secrets.SPOTIFY_LOGIN_JSON }}
           EOF
 
+      - name: Copy history files to private repo
+        run: |
+          cp spotify-history.json spotify-counter-private/
+          cp spotify-snapshot.json spotify-counter-private/
+
       - name: Run Counter
         working-directory: spotify-counter-private
         run: node generate-counter.js
