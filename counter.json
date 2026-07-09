@@ -9,8 +9,8 @@
     "formattedMonthlyListeners": "6.2M"
   },
   "summary": {
-    "totalStreams": 8823621159,
-    "formattedStreams": "8.82B",
+    "totalStreams": 8444437388,
+    "formattedStreams": "8.44B",
     "totalDailyGain": 2934045,
     "formattedDailyGain": "+2.9M"
   },
@@ -393,6 +393,21 @@
     {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "streams": 246635892,
+      "trackId": "4TZYldxfZlV3hKtZGl8kRb",
+      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
+      "previousStreams": 246598322,
+      "dailyGain": 37570,
+      "yesterdayGain": 34106,
+      "gainDifference": 3464,
+      "formattedStreams": "246.6M",
+      "formattedDailyGain": "+37.6K",
+      "formattedGainDifference": "+3.5K"
+    },
+    {
+      "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "streams": 246635892,
       "trackId": "2tC8dLnjkNFMGOqaYMSjcp",
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
       "releaseType": "SINGLE",
@@ -434,21 +449,6 @@
       "formattedStreams": "246.6M",
       "formattedDailyGain": "+37.6K",
       "formattedGainDifference": "+3.5K"
-    },
-    {
-      "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-      "streams": 246598322,
-      "trackId": "4TZYldxfZlV3hKtZGl8kRb",
-      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
-      "previousStreams": 246598322,
-      "dailyGain": 0,
-      "yesterdayGain": 34106,
-      "gainDifference": -34106,
-      "formattedStreams": "246.6M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-34106"
     },
     {
       "title": "Face-off",
@@ -648,6 +648,21 @@
     {
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
       "streams": 132625859,
+      "trackId": "2yjeXq5ahx6UUg2rHaUe6X",
+      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
+      "previousStreams": 132585449,
+      "dailyGain": 40410,
+      "yesterdayGain": 38749,
+      "gainDifference": 1661,
+      "formattedStreams": "132.6M",
+      "formattedDailyGain": "+40.4K",
+      "formattedGainDifference": "+1.7K"
+    },
+    {
+      "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
+      "streams": 132625859,
       "trackId": "7miSbL2vUkrkkrRZf1jcmq",
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
       "releaseType": "SINGLE",
@@ -659,21 +674,6 @@
       "formattedStreams": "132.6M",
       "formattedDailyGain": "+40.4K",
       "formattedGainDifference": "+1.7K"
-    },
-    {
-      "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
-      "streams": 132585449,
-      "trackId": "2yjeXq5ahx6UUg2rHaUe6X",
-      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
-      "previousStreams": 132585449,
-      "dailyGain": 0,
-      "yesterdayGain": 38749,
-      "gainDifference": -38749,
-      "formattedStreams": "132.6M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-38749"
     },
     {
       "title": "Interlude : Dive",
@@ -1844,10 +1844,25 @@
     {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
       "type": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e0221ba737cb75af968200cf4bc",
-      "streams": 813382440,
-      "dailyGain": 85811,
+      "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
+      "streams": 813460420,
+      "dailyGain": 163791,
       "songs": [
+        {
+          "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+          "streams": 246635892,
+          "trackId": "4TZYldxfZlV3hKtZGl8kRb",
+          "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
+          "releaseType": "SINGLE",
+          "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
+          "previousStreams": 246598322,
+          "dailyGain": 37570,
+          "yesterdayGain": 34106,
+          "gainDifference": 3464,
+          "formattedStreams": "246.6M",
+          "formattedDailyGain": "+37.6K",
+          "formattedGainDifference": "+3.5K"
+        },
         {
           "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
           "streams": 246635892,
@@ -1864,19 +1879,19 @@
           "formattedGainDifference": "+3.5K"
         },
         {
-          "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-          "streams": 246598322,
-          "trackId": "4TZYldxfZlV3hKtZGl8kRb",
+          "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
+          "streams": 132625859,
+          "trackId": "2yjeXq5ahx6UUg2rHaUe6X",
           "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
-          "previousStreams": 246598322,
-          "dailyGain": 0,
-          "yesterdayGain": 34106,
-          "gainDifference": -34106,
-          "formattedStreams": "246.6M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-34106"
+          "previousStreams": 132585449,
+          "dailyGain": 40410,
+          "yesterdayGain": 38749,
+          "gainDifference": 1661,
+          "formattedStreams": "132.6M",
+          "formattedDailyGain": "+40.4K",
+          "formattedGainDifference": "+1.7K"
         },
         {
           "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
@@ -1892,21 +1907,6 @@
           "formattedStreams": "132.6M",
           "formattedDailyGain": "+40.4K",
           "formattedGainDifference": "+1.7K"
-        },
-        {
-          "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
-          "streams": 132585449,
-          "trackId": "2yjeXq5ahx6UUg2rHaUe6X",
-          "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
-          "releaseType": "SINGLE",
-          "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
-          "previousStreams": 132585449,
-          "dailyGain": 0,
-          "yesterdayGain": 38749,
-          "gainDifference": -38749,
-          "formattedStreams": "132.6M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-38749"
         },
         {
           "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
