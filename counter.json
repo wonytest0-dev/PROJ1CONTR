@@ -9,8 +9,8 @@
     "formattedMonthlyListeners": "6M"
   },
   "summary": {
-    "totalStreams": 8985165917,
-    "formattedStreams": "8.99B",
+    "totalStreams": 8453372549,
+    "formattedStreams": "8.45B",
     "totalDailyGain": 2879909,
     "formattedDailyGain": "+2.9M"
   },
@@ -166,6 +166,21 @@
       "formattedGainDifference": "-5721"
     },
     {
+      "title": "Be Mine (English Version)",
+      "streams": 395197673,
+      "trackId": "4DairgmwgyfmFHm0e7kRPL",
+      "release": "Be Mine (English Version)",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e0219655636129722b4bd720dbc",
+      "previousStreams": 394949957,
+      "dailyGain": 247716,
+      "yesterdayGain": 258119,
+      "gainDifference": -10403,
+      "formattedStreams": "395.2M",
+      "formattedDailyGain": "+247.7K",
+      "formattedGainDifference": "-10403"
+    },
+    {
       "title": "Be Mine",
       "streams": 395197673,
       "trackId": "59ldd5koyBqo1vFp6MusW1",
@@ -209,21 +224,6 @@
       "formattedStreams": "395.2M",
       "formattedDailyGain": "+247.7K",
       "formattedGainDifference": "-10403"
-    },
-    {
-      "title": "Be Mine (English Version)",
-      "streams": 394949957,
-      "trackId": "4DairgmwgyfmFHm0e7kRPL",
-      "release": "Be Mine (English Version)",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e0219655636129722b4bd720dbc",
-      "previousStreams": 394949957,
-      "dailyGain": 0,
-      "yesterdayGain": 258119,
-      "gainDifference": -258119,
-      "formattedStreams": "394.9M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-258119"
     },
     {
       "title": "Closer Than This",
@@ -616,6 +616,21 @@
       "formattedGainDifference": "-2624"
     },
     {
+      "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
+      "streams": 132736391,
+      "trackId": "7lVAWCO7Z6n1bQvLGe2EW3",
+      "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up) [FAST X Soundtrack]",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02deaa79daadaf2236d1ac1003",
+      "previousStreams": 132701608,
+      "dailyGain": 34783,
+      "yesterdayGain": 37407,
+      "gainDifference": -2624,
+      "formattedStreams": "132.7M",
+      "formattedDailyGain": "+34.8K",
+      "formattedGainDifference": "-2624"
+    },
+    {
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
       "streams": 132736391,
       "trackId": "0ApadYqa3GRQkJJ3E7pQDJ",
@@ -659,21 +674,6 @@
       "formattedStreams": "132.7M",
       "formattedDailyGain": "+34.8K",
       "formattedGainDifference": "-2624"
-    },
-    {
-      "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
-      "streams": 132701608,
-      "trackId": "7lVAWCO7Z6n1bQvLGe2EW3",
-      "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up) [FAST X Soundtrack]",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02deaa79daadaf2236d1ac1003",
-      "previousStreams": 132701608,
-      "dailyGain": 0,
-      "yesterdayGain": 37407,
-      "gainDifference": -37407,
-      "formattedStreams": "132.7M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-37407"
     },
     {
       "title": "Interlude : Dive",
@@ -1097,18 +1097,18 @@
     },
     {
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up)",
-      "streams": 4141803,
+      "streams": 4143236,
       "trackId": "4rrGx1CX8RwQMl2ufnQzUA",
       "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up) [FAST X Soundtrack]",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02deaa79daadaf2236d1ac1003",
       "previousStreams": 4141803,
-      "dailyGain": 0,
+      "dailyGain": 1433,
       "yesterdayGain": 1896,
-      "gainDifference": -1896,
+      "gainDifference": -463,
       "formattedStreams": "4.1M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-1896"
+      "formattedDailyGain": "+1.4K",
+      "formattedGainDifference": "-463"
     }
   ],
   "releases": [
@@ -1953,23 +1953,23 @@
       "title": "Be Mine (English Version)",
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0219655636129722b4bd720dbc",
-      "streams": 394949957,
-      "dailyGain": 0,
+      "streams": 395197673,
+      "dailyGain": 247716,
       "songs": [
         {
           "title": "Be Mine (English Version)",
-          "streams": 394949957,
+          "streams": 395197673,
           "trackId": "4DairgmwgyfmFHm0e7kRPL",
           "release": "Be Mine (English Version)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0219655636129722b4bd720dbc",
           "previousStreams": 394949957,
-          "dailyGain": 0,
+          "dailyGain": 247716,
           "yesterdayGain": 258119,
-          "gainDifference": -258119,
-          "formattedStreams": "394.9M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-258119"
+          "gainDifference": -10403,
+          "formattedStreams": "395.2M",
+          "formattedDailyGain": "+247.7K",
+          "formattedGainDifference": "-10403"
         }
       ]
     },
@@ -2313,38 +2313,38 @@
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up) [FAST X Soundtrack]",
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02deaa79daadaf2236d1ac1003",
-      "streams": 136843411,
-      "dailyGain": 0,
+      "streams": 136879627,
+      "dailyGain": 36216,
       "songs": [
         {
           "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
-          "streams": 132701608,
+          "streams": 132736391,
           "trackId": "7lVAWCO7Z6n1bQvLGe2EW3",
           "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up) [FAST X Soundtrack]",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02deaa79daadaf2236d1ac1003",
           "previousStreams": 132701608,
-          "dailyGain": 0,
+          "dailyGain": 34783,
           "yesterdayGain": 37407,
-          "gainDifference": -37407,
+          "gainDifference": -2624,
           "formattedStreams": "132.7M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-37407"
+          "formattedDailyGain": "+34.8K",
+          "formattedGainDifference": "-2624"
         },
         {
           "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up)",
-          "streams": 4141803,
+          "streams": 4143236,
           "trackId": "4rrGx1CX8RwQMl2ufnQzUA",
           "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up) [FAST X Soundtrack]",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02deaa79daadaf2236d1ac1003",
           "previousStreams": 4141803,
-          "dailyGain": 0,
+          "dailyGain": 1433,
           "yesterdayGain": 1896,
-          "gainDifference": -1896,
+          "gainDifference": -463,
           "formattedStreams": "4.1M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-1896"
+          "formattedDailyGain": "+1.4K",
+          "formattedGainDifference": "-463"
         }
       ]
     },
