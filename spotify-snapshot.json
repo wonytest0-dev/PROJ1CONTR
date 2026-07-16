@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-14",
+  "updated": "2026-07-15",
   "sentinel": {
     "title": "Who",
-    "streams": 2480001387,
+    "streams": 2481343171,
     "trackId": "7tI8dRuH2Yc6RuoTjxo4dU",
     "release": "MUSE",
     "releaseType": "ALBUM",
@@ -13,512 +13,512 @@
       "title": "Who",
       "trackId": "1yqdD2ScjkqvaNBUzPQ4vR",
       "release": "Who (Remixes)",
-      "streams": 2480001387,
-      "dailyGain": 1310150
+      "streams": 2481343171,
+      "dailyGain": 1341784
     },
     {
       "title": "Who",
       "trackId": "5wPnPIZS8wr4lPNLz4qvHK",
       "release": "MUSE (WONDER ver.)",
-      "streams": 2480001387,
-      "dailyGain": 1310150
+      "streams": 2481343171,
+      "dailyGain": 1341784
     },
     {
       "title": "Who",
       "trackId": "32lSgbCqRcIOyUSnfuUZEQ",
       "release": "MUSE (WANDER ver.)",
-      "streams": 2480001387,
-      "dailyGain": 1310150
+      "streams": 2481343171,
+      "dailyGain": 1341784
     },
     {
       "title": "Who",
       "trackId": "7tI8dRuH2Yc6RuoTjxo4dU",
       "release": "MUSE",
-      "streams": 2480001387,
-      "dailyGain": 1310150
+      "streams": 2481343171,
+      "dailyGain": 1341784
+    },
+    {
+      "title": "Like Crazy",
+      "trackId": "3Ua0m0YmEjrMi9XErKcNiR",
+      "release": "FACE",
+      "streams": 1467163034,
+      "dailyGain": 240129
     },
     {
       "title": "Like Crazy",
       "trackId": "58BWnoFDNaeM0vwA0K3fqb",
       "release": "Like Crazy (Remixes)",
       "streams": 1466922905,
-      "dailyGain": 230345
-    },
-    {
-      "title": "Like Crazy",
-      "trackId": "3Ua0m0YmEjrMi9XErKcNiR",
-      "release": "FACE",
-      "streams": 1466922905,
-      "dailyGain": 230345
+      "dailyGain": 0
     },
     {
       "title": "Set Me Free Pt.2",
       "trackId": "1fpj1CJPxY3YvN3AMAEYvt",
       "release": "FACE",
-      "streams": 479794812,
-      "dailyGain": 139465
+      "streams": 479937516,
+      "dailyGain": 142704
     },
     {
       "title": "Set Me Free Pt.2",
       "trackId": "59hBR0BCtJsfIbV9VzCVAp",
       "release": "Set Me Free Pt.2",
-      "streams": 479794812,
-      "dailyGain": 139465
+      "streams": 479937516,
+      "dailyGain": 142704
+    },
+    {
+      "title": "Like Crazy (English Version)",
+      "trackId": "0u8rZGtXJrLtiSe34FPjGG",
+      "release": "FACE",
+      "streams": 401024232,
+      "dailyGain": 56243
     },
     {
       "title": "Like Crazy (English Version)",
       "trackId": "6EY9e6LyPWmL8hUS5E1P0h",
       "release": "Like Crazy (Remixes)",
       "streams": 400967989,
-      "dailyGain": 56785
+      "dailyGain": 0
     },
     {
-      "title": "Like Crazy (English Version)",
-      "trackId": "0u8rZGtXJrLtiSe34FPjGG",
-      "release": "FACE",
-      "streams": 400967989,
-      "dailyGain": 56785
+      "title": "Be Mine",
+      "trackId": "59ldd5koyBqo1vFp6MusW1",
+      "release": "MUSE (WONDER ver.)",
+      "streams": 396220280,
+      "dailyGain": 270236
+    },
+    {
+      "title": "Be Mine",
+      "trackId": "3VaKWbW68AyOkEl4AxhXA2",
+      "release": "MUSE (WANDER ver.)",
+      "streams": 396220280,
+      "dailyGain": 270236
+    },
+    {
+      "title": "Be Mine",
+      "trackId": "3LWVXp636uLT356Rj08Jaz",
+      "release": "MUSE",
+      "streams": 396220280,
+      "dailyGain": 270236
     },
     {
       "title": "Be Mine (English Version)",
       "trackId": "4DairgmwgyfmFHm0e7kRPL",
       "release": "Be Mine (English Version)",
       "streams": 395950044,
-      "dailyGain": 254049
-    },
-    {
-      "title": "Be Mine",
-      "trackId": "59ldd5koyBqo1vFp6MusW1",
-      "release": "MUSE (WONDER ver.)",
-      "streams": 395950044,
-      "dailyGain": 254049
-    },
-    {
-      "title": "Be Mine",
-      "trackId": "3VaKWbW68AyOkEl4AxhXA2",
-      "release": "MUSE (WANDER ver.)",
-      "streams": 395950044,
-      "dailyGain": 254049
-    },
-    {
-      "title": "Be Mine",
-      "trackId": "3LWVXp636uLT356Rj08Jaz",
-      "release": "MUSE",
-      "streams": 395950044,
-      "dailyGain": 254049
+      "dailyGain": 0
     },
     {
       "title": "Closer Than This",
       "trackId": "2Zyto2vRT9MEj44Y4qbzcs",
       "release": "MUSE (WONDER ver.)",
-      "streams": 333092701,
-      "dailyGain": 88981
+      "streams": 333186009,
+      "dailyGain": 93308
     },
     {
       "title": "Closer Than This",
       "trackId": "6OIVG9TFJnqOec4G5rD8pW",
       "release": "MUSE (WANDER ver.)",
-      "streams": 333092701,
-      "dailyGain": 88981
+      "streams": 333186009,
+      "dailyGain": 93308
     },
     {
       "title": "Closer Than This",
       "trackId": "6qafqn8bBMy7t5c5WqpyRk",
       "release": "MUSE",
-      "streams": 333092701,
-      "dailyGain": 88981
+      "streams": 333186009,
+      "dailyGain": 93308
     },
     {
       "title": "Closer Than This",
       "trackId": "3k6q0O9JnO2GhvD6C8fs20",
       "release": "Closer Than This",
-      "streams": 333092701,
-      "dailyGain": 88981
+      "streams": 333186009,
+      "dailyGain": 93308
     },
     {
       "title": "With you",
       "trackId": "2gzhQaCTeNgxpeB2TPllyY",
       "release": "Our Blues, Pt. 4 (Original Television Soundtrack)",
-      "streams": 326080574,
-      "dailyGain": 50798
+      "streams": 326128389,
+      "dailyGain": 47815
     },
     {
       "title": "VIBE (feat. Jimin of BTS)",
       "trackId": "14XLUySagFhP9KoqOTg5ka",
       "release": "VIBE (feat. Jimin of BTS)",
-      "streams": 276544995,
-      "dailyGain": 51980
+      "streams": 276597618,
+      "dailyGain": 52623
     },
     {
       "title": "Smeraldo Garden Marching Band (feat. Loco)",
       "trackId": "0KsBlpW6csX9YBVckbTDZh",
       "release": "MUSE (WONDER ver.)",
-      "streams": 275047721,
-      "dailyGain": 83336
+      "streams": 275126827,
+      "dailyGain": 79106
     },
     {
       "title": "Smeraldo Garden Marching Band (feat. Loco)",
       "trackId": "7yODD9DKQIllpZ5eioLZRY",
       "release": "MUSE (WANDER ver.)",
-      "streams": 275047721,
-      "dailyGain": 83336
+      "streams": 275126827,
+      "dailyGain": 79106
     },
     {
       "title": "Smeraldo Garden Marching Band (feat. Loco)",
       "trackId": "1agDCV4zQqaFwJQNsTgmL1",
       "release": "MUSE",
-      "streams": 275047721,
-      "dailyGain": 83336
+      "streams": 275126827,
+      "dailyGain": 79106
     },
     {
       "title": "Smeraldo Garden Marching Band (feat. Loco)",
       "trackId": "1kPhV0KQui1phEpjnWIqUN",
       "release": "Smeraldo Garden Marching Band (feat. Loco)",
-      "streams": 275047721,
-      "dailyGain": 83336
+      "streams": 275126827,
+      "dailyGain": 79106
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, Jimin of BTS, JVKE & Muni Long)",
       "trackId": "1FEGCMAqh9wzjVM7bPBORE",
       "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
-      "streams": 246839725,
-      "dailyGain": 35464
+      "streams": 246873229,
+      "dailyGain": 33504
     },
     {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "trackId": "4TZYldxfZlV3hKtZGl8kRb",
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
-      "streams": 246839725,
-      "dailyGain": 35464
+      "streams": 246873229,
+      "dailyGain": 33504
     },
     {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "trackId": "2tC8dLnjkNFMGOqaYMSjcp",
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
-      "streams": 246839725,
-      "dailyGain": 35464
+      "streams": 246873229,
+      "dailyGain": 33504
+    },
+    {
+      "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "trackId": "1vvcEHQdaUTvWt0EIUYcFK",
+      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
+      "streams": 246873229,
+      "dailyGain": 33504
     },
     {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "trackId": "4g1Ant3Me43Cm5Lx91bV8e",
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack)",
       "streams": 246839725,
-      "dailyGain": 35464
-    },
-    {
-      "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-      "trackId": "1vvcEHQdaUTvWt0EIUYcFK",
-      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
-      "streams": 246839725,
-      "dailyGain": 35464
+      "dailyGain": 0
     },
     {
       "title": "Face-off",
       "trackId": "3OdIiWnYRHPYtC313Z0Bwy",
       "release": "FACE",
-      "streams": 168181745,
-      "dailyGain": 45406
+      "streams": 168238398,
+      "dailyGain": 56653
     },
     {
       "title": "Alone",
       "trackId": "5Hfnps0jaWFpYg55WOPexG",
       "release": "FACE",
-      "streams": 155240749,
-      "dailyGain": 47910
+      "streams": 155284037,
+      "dailyGain": 43288
     },
     {
       "title": "Promise",
       "trackId": "2RUcwyW74Sv4VracHFrKdh",
       "release": "Promise",
-      "streams": 148896212,
-      "dailyGain": 76387
+      "streams": 148971357,
+      "dailyGain": 75145
     },
     {
       "title": "Slow Dance (feat. Sofia Carson)",
       "trackId": "5XvFNFNsgvmwsWk1T7BfRj",
       "release": "MUSE (WONDER ver.)",
-      "streams": 147532467,
-      "dailyGain": 77134
+      "streams": 147617080,
+      "dailyGain": 84613
     },
     {
       "title": "Slow Dance (feat. Sofia Carson)",
       "trackId": "5nyhz1bxLCiBBIAIcBgiEP",
       "release": "MUSE (WANDER ver.)",
-      "streams": 147532467,
-      "dailyGain": 77134
+      "streams": 147617080,
+      "dailyGain": 84613
     },
     {
       "title": "Slow Dance (feat. Sofia Carson)",
       "trackId": "3d2bsbugow8JiNvuaRupFH",
       "release": "MUSE",
-      "streams": 147532467,
-      "dailyGain": 77134
+      "streams": 147617080,
+      "dailyGain": 84613
     },
     {
       "title": "Rebirth (Intro)",
       "trackId": "12YODvwEH9NPutL8OhObfD",
       "release": "MUSE (WONDER ver.)",
-      "streams": 140058388,
-      "dailyGain": 73604
+      "streams": 140132353,
+      "dailyGain": 73965
     },
     {
       "title": "Rebirth (Intro)",
       "trackId": "1ZtkxrnxZB6r8nIiHwqaUn",
       "release": "MUSE (WANDER ver.)",
-      "streams": 140058388,
-      "dailyGain": 73604
+      "streams": 140132353,
+      "dailyGain": 73965
     },
     {
       "title": "Rebirth (Intro)",
       "trackId": "7gMfVc4zfNIxuMyMGglOHa",
       "release": "MUSE",
-      "streams": 140058388,
-      "dailyGain": 73604
+      "streams": 140132353,
+      "dailyGain": 73965
     },
     {
       "title": "Angel Pt. 2 (feat. Jimin of BTS & JVKE feat. Charlie Puth & Muni Long)",
       "trackId": "3gSobY1JXFJn6wh1ON35ni",
       "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
-      "streams": 132845615,
-      "dailyGain": 37720
+      "streams": 132883673,
+      "dailyGain": 38058
     },
     {
       "title": "Angel Pt. 2",
       "trackId": "2q6GfDEbNUwJENX6EZLK4Q",
       "release": "Angel Pt. 2 (Acoustic Version)",
-      "streams": 132845615,
-      "dailyGain": 37720
+      "streams": 132883673,
+      "dailyGain": 38058
     },
     {
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
       "trackId": "7lVAWCO7Z6n1bQvLGe2EW3",
       "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up) [FAST X Soundtrack]",
-      "streams": 132845615,
-      "dailyGain": 37720
+      "streams": 132883673,
+      "dailyGain": 38058
     },
     {
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
       "trackId": "0ApadYqa3GRQkJJ3E7pQDJ",
       "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
-      "streams": 132845615,
-      "dailyGain": 37720
+      "streams": 132883673,
+      "dailyGain": 38058
     },
     {
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
       "trackId": "2yjeXq5ahx6UUg2rHaUe6X",
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
-      "streams": 132845615,
-      "dailyGain": 37720
+      "streams": 132883673,
+      "dailyGain": 38058
     },
     {
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
       "trackId": "7miSbL2vUkrkkrRZf1jcmq",
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
-      "streams": 132845615,
-      "dailyGain": 37720
+      "streams": 132883673,
+      "dailyGain": 38058
     },
     {
       "title": "Interlude : Dive",
       "trackId": "2qg2jy3v50RwfV5FAqG3a2",
       "release": "FACE",
-      "streams": 126570566,
-      "dailyGain": 17281
+      "streams": 126590857,
+      "dailyGain": 20291
     },
     {
       "title": "Interlude : Showtime",
       "trackId": "3vKBoDN6DGrxMRDBOe5bQa",
       "release": "MUSE (WONDER ver.)",
-      "streams": 124428400,
-      "dailyGain": 53927
+      "streams": 124489131,
+      "dailyGain": 60731
     },
     {
       "title": "Interlude : Showtime",
       "trackId": "12HctF6VyD118g7eXtWLBo",
       "release": "MUSE (WANDER ver.)",
-      "streams": 124428400,
-      "dailyGain": 53927
+      "streams": 124489131,
+      "dailyGain": 60731
     },
     {
       "title": "Interlude : Showtime",
       "trackId": "45zLrK0668WQ5JFMyiYmCS",
       "release": "MUSE",
-      "streams": 124428400,
-      "dailyGain": 53927
+      "streams": 124489131,
+      "dailyGain": 60731
     },
     {
       "title": "Who (Rock Remix)",
       "trackId": "2x9lpe6UIHNqLf8fB8qpb7",
       "release": "Who (Remixes)",
-      "streams": 77116483,
-      "dailyGain": 43853
+      "streams": 77155731,
+      "dailyGain": 39248
     },
     {
       "title": "Who (Rock Remix)",
       "trackId": "1MC8JLPV4fbvVBqvGSLoDf",
       "release": "MUSE (WONDER ver.)",
-      "streams": 77116483,
-      "dailyGain": 43853
+      "streams": 77155731,
+      "dailyGain": 39248
     },
     {
       "title": "Who (Acoustic Remix)",
       "trackId": "2YKecnWyzkGEDTyNaKBG2H",
       "release": "Who (Remixes)",
-      "streams": 75041614,
-      "dailyGain": 32447
+      "streams": 75075953,
+      "dailyGain": 34339
     },
     {
       "title": "Who (Acoustic Remix)",
       "trackId": "10I5rhhFoWZDIN3kEc6Dbo",
       "release": "MUSE (WONDER ver.)",
-      "streams": 75041614,
-      "dailyGain": 32447
+      "streams": 75075953,
+      "dailyGain": 34339
     },
     {
       "title": "Who (Shibuyakei Remix)",
       "trackId": "1PNdJibg1adHD1pTpYBfGc",
       "release": "Who (Remixes)",
-      "streams": 61761083,
-      "dailyGain": 17905
+      "streams": 61777965,
+      "dailyGain": 16882
     },
     {
       "title": "Who (Shibuyakei Remix)",
       "trackId": "1ySWoGgrduSzvtJ3PUzO41",
       "release": "MUSE (WANDER ver.)",
-      "streams": 61761083,
-      "dailyGain": 17905
+      "streams": 61777965,
+      "dailyGain": 16882
     },
     {
       "title": "Who (Instrumental)",
       "trackId": "6t7t37Bex3DV4ADqAwUmwa",
       "release": "Who (Remixes)",
-      "streams": 60692913,
-      "dailyGain": 16690
+      "streams": 60708845,
+      "dailyGain": 15932
     },
     {
       "title": "Who (Instrumental)",
       "trackId": "1Px44tw80Q4rcCl8FxDGOi",
       "release": "MUSE (WONDER ver.)",
-      "streams": 60692913,
-      "dailyGain": 16690
+      "streams": 60708845,
+      "dailyGain": 15932
     },
     {
       "title": "Who (Funky Remix)",
       "trackId": "6E9BsGMop0G1jrpQNzugXv",
       "release": "Who (Remixes)",
-      "streams": 59358097,
-      "dailyGain": 16706
+      "streams": 59374428,
+      "dailyGain": 16331
     },
     {
       "title": "Who (Funky Remix)",
       "trackId": "7KZNgri6Jxw88FAfATw6i9",
       "release": "MUSE (WANDER ver.)",
-      "streams": 59358097,
-      "dailyGain": 16706
+      "streams": 59374428,
+      "dailyGain": 16331
     },
     {
       "title": "Who (Beautiful Mind Remix)",
       "trackId": "1GDjQlek7EFZ3qTyySTSAF",
       "release": "Who (Remixes)",
-      "streams": 59095530,
-      "dailyGain": 16616
+      "streams": 59111551,
+      "dailyGain": 16021
     },
     {
       "title": "Who (Beautiful Mind Remix)",
       "trackId": "2isRbZIIU4PqPrECffn7QO",
       "release": "MUSE (WANDER ver.)",
-      "streams": 59095530,
-      "dailyGain": 16616
+      "streams": 59111551,
+      "dailyGain": 16021
     },
     {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
       "trackId": "2rgCR1PPHPGJBppdBOqor0",
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
-      "streams": 54978353,
-      "dailyGain": 7262
+      "streams": 54985151,
+      "dailyGain": 6798
     },
     {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
       "trackId": "2GhOHZynysGm5B8R6iCihi",
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
-      "streams": 54978353,
-      "dailyGain": 7262
+      "streams": 54985151,
+      "dailyGain": 6798
     },
     {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
       "trackId": "5qyjy0xfsHNzWxvXkHVB85",
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
-      "streams": 54978353,
-      "dailyGain": 7262
+      "streams": 54985151,
+      "dailyGain": 6798
     },
     {
       "title": "Christmas Love",
       "trackId": "5oaQsszgxYAdABuXoWEOUe",
       "release": "Christmas Love",
-      "streams": 49680674,
-      "dailyGain": 13682
+      "streams": 49692801,
+      "dailyGain": 12127
     },
     {
       "title": "Like Crazy (Deep House Remix)",
       "trackId": "6D90VTeGEWYX5AkAtjHZh1",
       "release": "Like Crazy (Remixes)",
       "streams": 37553686,
-      "dailyGain": 7508
+      "dailyGain": 0
     },
     {
       "title": "Like Crazy (UK Garage Remix)",
       "trackId": "5tDxLjAnkojfnXnjOk6mvh",
       "release": "Like Crazy (Remixes)",
       "streams": 35727665,
-      "dailyGain": 5784
+      "dailyGain": 0
     },
     {
       "title": "Like Crazy (Instrumental)",
       "trackId": "0cxhv3PpIkmREXqobuB0zG",
       "release": "Like Crazy (Remixes)",
       "streams": 26275125,
-      "dailyGain": 5242
+      "dailyGain": 0
     },
     {
       "title": "With you - Instrumental",
       "trackId": "7M30L99pePlQ3wh8IxVUsD",
       "release": "Our Blues, Pt. 4 (Original Television Soundtrack)",
-      "streams": 21882621,
-      "dailyGain": 1518
+      "streams": 21883845,
+      "dailyGain": 1224
     },
     {
       "title": "Angel Pt. 2 - Acoustic Version",
       "trackId": "46rplB2GaD79JaBn94qfqi",
       "release": "Angel Pt. 2 (Acoustic Version)",
-      "streams": 8051363,
-      "dailyGain": 3438
+      "streams": 8053841,
+      "dailyGain": 2478
     },
     {
       "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
       "trackId": "2PMEMxJCxOz0RGT0mQXXZq",
       "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
-      "streams": 5600001,
-      "dailyGain": 2647
+      "streams": 5602256,
+      "dailyGain": 2255
     },
     {
       "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
       "trackId": "1XE3rehhUySx3O1fALkswV",
       "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
-      "streams": 5600001,
-      "dailyGain": 2647
+      "streams": 5602256,
+      "dailyGain": 2255
     },
     {
       "title": "Angel Pt. 2 - Sped Up",
       "trackId": "6aB2aRNg9gTj6XMQkW0yQk",
       "release": "Angel Pt. 2 (Acoustic Version)",
-      "streams": 4148753,
-      "dailyGain": 1861
+      "streams": 4150044,
+      "dailyGain": 1291
     },
     {
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up)",
       "trackId": "4rrGx1CX8RwQMl2ufnQzUA",
       "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up) [FAST X Soundtrack]",
-      "streams": 4148753,
-      "dailyGain": 1861
+      "streams": 4150044,
+      "dailyGain": 1291
     }
   ]
 }
