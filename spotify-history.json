@@ -420,15 +420,9 @@
     "totalDailyGain": 2692014
   },
   {
-    "date": "2026-08-03",
-    "sentinel": 2497019353,
-    "totalStreams": 8507761096,
-    "totalDailyGain": 2855016
-  },
-  {
-    "date": "2026-08-04",
-    "sentinel": 2498379422,
-    "totalStreams": 8510856870,
-    "totalDailyGain": 3095774
+    "date": "8/7/2026",
+    "sentinel": 2499718706,
+    "totalStreams": 8513888089,
+    "totalDailyGain": 3031219
   }
 ]
