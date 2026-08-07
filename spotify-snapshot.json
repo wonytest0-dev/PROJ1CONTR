@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "sentinel": {
     "title": "Who",
     "streams": 2499718706,
@@ -9,11 +9,11 @@
     "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
     "previousStreams": 2499718706,
     "dailyGain": 0,
-    "yesterdayGain": 1339284,
-    "gainDifference": -1339284,
+    "yesterdayGain": 0,
+    "gainDifference": 0,
     "formattedStreams": "2.50B",
     "formattedDailyGain": "0",
-    "formattedGainDifference": "-1339284"
+    "formattedGainDifference": "0"
   },
   "songs": [
     {
