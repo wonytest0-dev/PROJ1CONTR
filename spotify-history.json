@@ -430,47 +430,5 @@
     "sentinel": 2498379422,
     "totalStreams": 8510856870,
     "totalDailyGain": 3095774
-  },
-  {
-    "date": "2026-08-05",
-    "sentinel": 2499718706,
-    "totalStreams": 8513888089,
-    "totalDailyGain": 3031219
-  },
-  {
-    "date": "2026-08-06",
-    "sentinel": 2499718706,
-    "totalStreams": 8513888089,
-    "totalDailyGain": 0
-  },
-  {
-    "date": "2026-08-07",
-    "sentinel": 2499718706,
-    "totalStreams": 8513888089,
-    "totalDailyGain": 0
-  },
-  {
-    "date": "2026-08-08",
-    "sentinel": 2499718706,
-    "totalStreams": 8513888089,
-    "totalDailyGain": 0
-  },
-  {
-    "date": "2026-08-09",
-    "sentinel": 2499718706,
-    "totalStreams": 8513888089,
-    "totalDailyGain": 0
-  },
-  {
-    "date": "2026-08-10",
-    "sentinel": 2499718706,
-    "totalStreams": 8513888089,
-    "totalDailyGain": 0
-  },
-  {
-    "date": "2026-08-11",
-    "sentinel": 2499718706,
-    "totalStreams": 8513888089,
-    "totalDailyGain": 0
   }
 ]
