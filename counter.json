@@ -9,9 +9,9 @@
     "formattedMonthlyListeners": "5.6M"
   },
   "summary": {
-    "totalStreams": 8961250791,
-    "formattedStreams": "8.96B",
-    "totalDailyGain": 3055724,
+    "totalStreams": 8540085442,
+    "formattedStreams": "8.54B",
+    "totalDailyGain": 3071407,
     "formattedDailyGain": "+3.1M"
   },
   "songs": [
@@ -362,18 +362,18 @@
     },
     {
       "title": "Smeraldo Garden Marching Band (feat. Loco)",
-      "streams": 277419001,
+      "streams": 277504634,
       "trackId": "1kPhV0KQui1phEpjnWIqUN",
       "release": "Smeraldo Garden Marching Band (feat. Loco)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0238881a83135ef5b4ace418ba",
       "previousStreams": 277419001,
-      "dailyGain": 0,
+      "dailyGain": 85633,
       "yesterdayGain": 77737,
-      "gainDifference": -77737,
-      "formattedStreams": "277.4M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-77737"
+      "gainDifference": 7896,
+      "formattedStreams": "277.5M",
+      "formattedDailyGain": "+85.6K",
+      "formattedGainDifference": "+7.9K"
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, Jimin of BTS, JVKE & Muni Long)",
@@ -601,6 +601,21 @@
       "formattedGainDifference": "+159"
     },
     {
+      "title": "Angel Pt. 2",
+      "streams": 133948474,
+      "trackId": "2q6GfDEbNUwJENX6EZLK4Q",
+      "release": "Angel Pt. 2 (Acoustic Version)",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
+      "previousStreams": 133910768,
+      "dailyGain": 37706,
+      "yesterdayGain": 37547,
+      "gainDifference": 159,
+      "formattedStreams": "133.9M",
+      "formattedDailyGain": "+37.7K",
+      "formattedGainDifference": "+159"
+    },
+    {
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
       "streams": 133948474,
       "trackId": "7lVAWCO7Z6n1bQvLGe2EW3",
@@ -659,21 +674,6 @@
       "formattedStreams": "133.9M",
       "formattedDailyGain": "+37.7K",
       "formattedGainDifference": "+159"
-    },
-    {
-      "title": "Angel Pt. 2",
-      "streams": 133910768,
-      "trackId": "2q6GfDEbNUwJENX6EZLK4Q",
-      "release": "Angel Pt. 2 (Acoustic Version)",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
-      "previousStreams": 133910768,
-      "dailyGain": 0,
-      "yesterdayGain": 37547,
-      "gainDifference": -37547,
-      "formattedStreams": "133.9M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-37547"
     },
     {
       "title": "Interlude : Dive",
@@ -962,18 +962,18 @@
     },
     {
       "title": "Christmas Love",
-      "streams": 50038402,
+      "streams": 50051705,
       "trackId": "5oaQsszgxYAdABuXoWEOUe",
       "release": "Christmas Love",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e026102fbfee73db153a32d02ab",
       "previousStreams": 50038402,
-      "dailyGain": 0,
+      "dailyGain": 13303,
       "yesterdayGain": 13996,
-      "gainDifference": -13996,
-      "formattedStreams": "50M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-13996"
+      "gainDifference": -693,
+      "formattedStreams": "50.1M",
+      "formattedDailyGain": "+13.3K",
+      "formattedGainDifference": "-693"
     },
     {
       "title": "Like Crazy (Deep House Remix)",
@@ -1037,18 +1037,18 @@
     },
     {
       "title": "Angel Pt. 2 - Acoustic Version",
-      "streams": 8128299,
+      "streams": 8130679,
       "trackId": "46rplB2GaD79JaBn94qfqi",
       "release": "Angel Pt. 2 (Acoustic Version)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
       "previousStreams": 8128299,
-      "dailyGain": 0,
+      "dailyGain": 2380,
       "yesterdayGain": 2420,
-      "gainDifference": -2420,
+      "gainDifference": -40,
       "formattedStreams": "8.1M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-2420"
+      "formattedDailyGain": "+2.4K",
+      "formattedGainDifference": "-40"
     },
     {
       "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
@@ -1067,18 +1067,33 @@
     },
     {
       "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
-      "streams": 5663205,
+      "streams": 5665304,
       "trackId": "1XE3rehhUySx3O1fALkswV",
       "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e025cae2e3d2932cd9283cc53ff",
       "previousStreams": 5663205,
-      "dailyGain": 0,
+      "dailyGain": 2099,
       "yesterdayGain": 2236,
-      "gainDifference": -2236,
+      "gainDifference": -137,
       "formattedStreams": "5.7M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-2236"
+      "formattedDailyGain": "+2.1K",
+      "formattedGainDifference": "-137"
+    },
+    {
+      "title": "Angel Pt. 2 - Sped Up",
+      "streams": 4189086,
+      "trackId": "6aB2aRNg9gTj6XMQkW0yQk",
+      "release": "Angel Pt. 2 (Acoustic Version)",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
+      "previousStreams": 4188058,
+      "dailyGain": 1028,
+      "yesterdayGain": 1396,
+      "gainDifference": -368,
+      "formattedStreams": "4.2M",
+      "formattedDailyGain": "+1K",
+      "formattedGainDifference": "-368"
     },
     {
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up)",
@@ -1094,21 +1109,6 @@
       "formattedStreams": "4.2M",
       "formattedDailyGain": "+1K",
       "formattedGainDifference": "-368"
-    },
-    {
-      "title": "Angel Pt. 2 - Sped Up",
-      "streams": 4188058,
-      "trackId": "6aB2aRNg9gTj6XMQkW0yQk",
-      "release": "Angel Pt. 2 (Acoustic Version)",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
-      "previousStreams": 4188058,
-      "dailyGain": 0,
-      "yesterdayGain": 1396,
-      "gainDifference": -1396,
-      "formattedStreams": "4.2M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-1396"
     }
   ],
   "releases": [
@@ -1977,8 +1977,8 @@
       "title": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
-      "streams": 393150955,
-      "dailyGain": 75383,
+      "streams": 393153054,
+      "dailyGain": 77482,
       "songs": [
         {
           "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, Jimin of BTS, JVKE & Muni Long)",
@@ -2027,18 +2027,18 @@
         },
         {
           "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
-          "streams": 5663205,
+          "streams": 5665304,
           "trackId": "1XE3rehhUySx3O1fALkswV",
           "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e025cae2e3d2932cd9283cc53ff",
           "previousStreams": 5663205,
-          "dailyGain": 0,
+          "dailyGain": 2099,
           "yesterdayGain": 2236,
-          "gainDifference": -2236,
+          "gainDifference": -137,
           "formattedStreams": "5.7M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-2236"
+          "formattedDailyGain": "+2.1K",
+          "formattedGainDifference": "-137"
         }
       ]
     },
@@ -2187,23 +2187,23 @@
       "title": "Smeraldo Garden Marching Band (feat. Loco)",
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0238881a83135ef5b4ace418ba",
-      "streams": 277419001,
-      "dailyGain": 0,
+      "streams": 277504634,
+      "dailyGain": 85633,
       "songs": [
         {
           "title": "Smeraldo Garden Marching Band (feat. Loco)",
-          "streams": 277419001,
+          "streams": 277504634,
           "trackId": "1kPhV0KQui1phEpjnWIqUN",
           "release": "Smeraldo Garden Marching Band (feat. Loco)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0238881a83135ef5b4ace418ba",
           "previousStreams": 277419001,
-          "dailyGain": 0,
+          "dailyGain": 85633,
           "yesterdayGain": 77737,
-          "gainDifference": -77737,
-          "formattedStreams": "277.4M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-77737"
+          "gainDifference": 7896,
+          "formattedStreams": "277.5M",
+          "formattedDailyGain": "+85.6K",
+          "formattedGainDifference": "+7.9K"
         }
       ]
     },
@@ -2259,53 +2259,53 @@
       "title": "Angel Pt. 2 (Acoustic Version)",
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
-      "streams": 146227125,
-      "dailyGain": 0,
+      "streams": 146268239,
+      "dailyGain": 41114,
       "songs": [
         {
           "title": "Angel Pt. 2",
-          "streams": 133910768,
+          "streams": 133948474,
           "trackId": "2q6GfDEbNUwJENX6EZLK4Q",
           "release": "Angel Pt. 2 (Acoustic Version)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
           "previousStreams": 133910768,
-          "dailyGain": 0,
+          "dailyGain": 37706,
           "yesterdayGain": 37547,
-          "gainDifference": -37547,
+          "gainDifference": 159,
           "formattedStreams": "133.9M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-37547"
+          "formattedDailyGain": "+37.7K",
+          "formattedGainDifference": "+159"
         },
         {
           "title": "Angel Pt. 2 - Acoustic Version",
-          "streams": 8128299,
+          "streams": 8130679,
           "trackId": "46rplB2GaD79JaBn94qfqi",
           "release": "Angel Pt. 2 (Acoustic Version)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
           "previousStreams": 8128299,
-          "dailyGain": 0,
+          "dailyGain": 2380,
           "yesterdayGain": 2420,
-          "gainDifference": -2420,
+          "gainDifference": -40,
           "formattedStreams": "8.1M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-2420"
+          "formattedDailyGain": "+2.4K",
+          "formattedGainDifference": "-40"
         },
         {
           "title": "Angel Pt. 2 - Sped Up",
-          "streams": 4188058,
+          "streams": 4189086,
           "trackId": "6aB2aRNg9gTj6XMQkW0yQk",
           "release": "Angel Pt. 2 (Acoustic Version)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
           "previousStreams": 4188058,
-          "dailyGain": 0,
+          "dailyGain": 1028,
           "yesterdayGain": 1396,
-          "gainDifference": -1396,
+          "gainDifference": -368,
           "formattedStreams": "4.2M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-1396"
+          "formattedDailyGain": "+1K",
+          "formattedGainDifference": "-368"
         }
       ]
     },
@@ -2376,23 +2376,23 @@
       "title": "Christmas Love",
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e026102fbfee73db153a32d02ab",
-      "streams": 50038402,
-      "dailyGain": 0,
+      "streams": 50051705,
+      "dailyGain": 13303,
       "songs": [
         {
           "title": "Christmas Love",
-          "streams": 50038402,
+          "streams": 50051705,
           "trackId": "5oaQsszgxYAdABuXoWEOUe",
           "release": "Christmas Love",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e026102fbfee73db153a32d02ab",
           "previousStreams": 50038402,
-          "dailyGain": 0,
+          "dailyGain": 13303,
           "yesterdayGain": 13996,
-          "gainDifference": -13996,
-          "formattedStreams": "50M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-13996"
+          "gainDifference": -693,
+          "formattedStreams": "50.1M",
+          "formattedDailyGain": "+13.3K",
+          "formattedGainDifference": "-693"
         }
       ]
     }
