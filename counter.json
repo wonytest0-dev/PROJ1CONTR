@@ -9,10 +9,10 @@
     "formattedMonthlyListeners": "5.5M"
   },
   "summary": {
-    "totalStreams": 11355868391,
-    "formattedStreams": "11.36B",
-    "totalDailyGain": 3015558,
-    "formattedDailyGain": "+3M"
+    "totalStreams": 8551486119,
+    "formattedStreams": "8.55B",
+    "totalDailyGain": 3126553,
+    "formattedDailyGain": "+3.1M"
   },
   "songs": [
     {
@@ -92,18 +92,33 @@
     },
     {
       "title": "Like Crazy",
-      "streams": 1474349905,
+      "streams": 1474592984,
       "trackId": "3Ua0m0YmEjrMi9XErKcNiR",
       "release": "FACE",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
       "previousStreams": 1474349905,
-      "dailyGain": 0,
+      "dailyGain": 243079,
       "yesterdayGain": 233988,
-      "gainDifference": -233988,
+      "gainDifference": 9091,
       "formattedStreams": "1.47B",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-233988"
+      "formattedDailyGain": "+243.1K",
+      "formattedGainDifference": "+9.1K"
+    },
+    {
+      "title": "Set Me Free Pt.2",
+      "streams": 484470231,
+      "trackId": "1fpj1CJPxY3YvN3AMAEYvt",
+      "release": "FACE",
+      "releaseType": "EP",
+      "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
+      "previousStreams": 484299416,
+      "dailyGain": 170815,
+      "yesterdayGain": 173877,
+      "gainDifference": -3062,
+      "formattedStreams": "484.5M",
+      "formattedDailyGain": "+170.8K",
+      "formattedGainDifference": "-3062"
     },
     {
       "title": "Set Me Free Pt.2",
@@ -119,21 +134,6 @@
       "formattedStreams": "484.5M",
       "formattedDailyGain": "+170.8K",
       "formattedGainDifference": "-3062"
-    },
-    {
-      "title": "Set Me Free Pt.2",
-      "streams": 484299416,
-      "trackId": "1fpj1CJPxY3YvN3AMAEYvt",
-      "release": "FACE",
-      "releaseType": "EP",
-      "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
-      "previousStreams": 484299416,
-      "dailyGain": 0,
-      "yesterdayGain": 173877,
-      "gainDifference": -173877,
-      "formattedStreams": "484.3M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-173877"
     },
     {
       "title": "Be Mine (English Version)",
@@ -212,18 +212,18 @@
     },
     {
       "title": "Like Crazy (English Version)",
-      "streams": 402923321,
+      "streams": 402986236,
       "trackId": "0u8rZGtXJrLtiSe34FPjGG",
       "release": "FACE",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
       "previousStreams": 402923321,
-      "dailyGain": 0,
+      "dailyGain": 62915,
       "yesterdayGain": 58330,
-      "gainDifference": -58330,
-      "formattedStreams": "402.9M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-58330"
+      "gainDifference": 4585,
+      "formattedStreams": "403M",
+      "formattedDailyGain": "+62.9K",
+      "formattedGainDifference": "+4.6K"
     },
     {
       "title": "Closer Than This",
@@ -376,6 +376,21 @@
       "formattedGainDifference": "-901"
     },
     {
+      "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, Jimin of BTS, JVKE & Muni Long)",
+      "streams": 248003941,
+      "trackId": "1FEGCMAqh9wzjVM7bPBORE",
+      "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
+      "previousStreams": 247969783,
+      "dailyGain": 34158,
+      "yesterdayGain": 33773,
+      "gainDifference": 385,
+      "formattedStreams": "248M",
+      "formattedDailyGain": "+34.2K",
+      "formattedGainDifference": "+385"
+    },
+    {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "streams": 248003941,
       "trackId": "2tC8dLnjkNFMGOqaYMSjcp",
@@ -436,49 +451,34 @@
       "formattedGainDifference": "+385"
     },
     {
-      "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, Jimin of BTS, JVKE & Muni Long)",
-      "streams": 247969783,
-      "trackId": "1FEGCMAqh9wzjVM7bPBORE",
-      "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
-      "previousStreams": 247969783,
-      "dailyGain": 0,
-      "yesterdayGain": 33773,
-      "gainDifference": -33773,
-      "formattedStreams": "248M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-33773"
-    },
-    {
       "title": "Face-off",
-      "streams": 169772545,
+      "streams": 169820096,
       "trackId": "3OdIiWnYRHPYtC313Z0Bwy",
       "release": "FACE",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
       "previousStreams": 169772545,
-      "dailyGain": 0,
+      "dailyGain": 47551,
       "yesterdayGain": 45055,
-      "gainDifference": -45055,
+      "gainDifference": 2496,
       "formattedStreams": "169.8M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-45055"
+      "formattedDailyGain": "+47.6K",
+      "formattedGainDifference": "+2.5K"
     },
     {
       "title": "Alone",
-      "streams": 156652091,
+      "streams": 156694037,
       "trackId": "5Hfnps0jaWFpYg55WOPexG",
       "release": "FACE",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
       "previousStreams": 156652091,
-      "dailyGain": 0,
+      "dailyGain": 41946,
       "yesterdayGain": 40653,
-      "gainDifference": -40653,
+      "gainDifference": 1293,
       "formattedStreams": "156.7M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-40653"
+      "formattedDailyGain": "+41.9K",
+      "formattedGainDifference": "+1.3K"
     },
     {
       "title": "Promise",
@@ -586,6 +586,21 @@
       "formattedGainDifference": "+1.3K"
     },
     {
+      "title": "Angel Pt. 2 (feat. Jimin of BTS & JVKE feat. Charlie Puth & Muni Long)",
+      "streams": 134085318,
+      "trackId": "3gSobY1JXFJn6wh1ON35ni",
+      "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
+      "previousStreams": 134047470,
+      "dailyGain": 37848,
+      "yesterdayGain": 34792,
+      "gainDifference": 3056,
+      "formattedStreams": "134.1M",
+      "formattedDailyGain": "+37.8K",
+      "formattedGainDifference": "+3.1K"
+    },
+    {
       "title": "Angel Pt. 2",
       "streams": 134085318,
       "trackId": "2q6GfDEbNUwJENX6EZLK4Q",
@@ -607,6 +622,21 @@
       "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up) [FAST X Soundtrack]",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02deaa79daadaf2236d1ac1003",
+      "previousStreams": 134047470,
+      "dailyGain": 37848,
+      "yesterdayGain": 34792,
+      "gainDifference": 3056,
+      "formattedStreams": "134.1M",
+      "formattedDailyGain": "+37.8K",
+      "formattedGainDifference": "+3.1K"
+    },
+    {
+      "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
+      "streams": 134085318,
+      "trackId": "0ApadYqa3GRQkJJ3E7pQDJ",
+      "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e023af4efcbc640cf0cb0888d63",
       "previousStreams": 134047470,
       "dailyGain": 37848,
       "yesterdayGain": 34792,
@@ -646,49 +676,19 @@
       "formattedGainDifference": "+3.1K"
     },
     {
-      "title": "Angel Pt. 2 (feat. Jimin of BTS & JVKE feat. Charlie Puth & Muni Long)",
-      "streams": 134047470,
-      "trackId": "3gSobY1JXFJn6wh1ON35ni",
-      "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
-      "previousStreams": 134047470,
-      "dailyGain": 0,
-      "yesterdayGain": 34792,
-      "gainDifference": -34792,
-      "formattedStreams": "134M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-34792"
-    },
-    {
-      "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
-      "streams": 134047470,
-      "trackId": "0ApadYqa3GRQkJJ3E7pQDJ",
-      "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e023af4efcbc640cf0cb0888d63",
-      "previousStreams": 134047470,
-      "dailyGain": 0,
-      "yesterdayGain": 34792,
-      "gainDifference": -34792,
-      "formattedStreams": "134M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-34792"
-    },
-    {
       "title": "Interlude : Dive",
-      "streams": 127198689,
+      "streams": 127220187,
       "trackId": "2qg2jy3v50RwfV5FAqG3a2",
       "release": "FACE",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
       "previousStreams": 127198689,
-      "dailyGain": 0,
+      "dailyGain": 21498,
       "yesterdayGain": 19526,
-      "gainDifference": -19526,
+      "gainDifference": 1972,
       "formattedStreams": "127.2M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-19526"
+      "formattedDailyGain": "+21.5K",
+      "formattedGainDifference": "+2K"
     },
     {
       "title": "Interlude : Showtime",
@@ -947,18 +947,18 @@
     },
     {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
-      "streams": 55232139,
+      "streams": 55240092,
       "trackId": "5qyjy0xfsHNzWxvXkHVB85",
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02146ea147ce8c185e71b3b84e",
       "previousStreams": 55232139,
-      "dailyGain": 0,
+      "dailyGain": 7953,
       "yesterdayGain": 7900,
-      "gainDifference": -7900,
+      "gainDifference": 53,
       "formattedStreams": "55.2M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-7900"
+      "formattedDailyGain": "+8K",
+      "formattedGainDifference": "+53"
     },
     {
       "title": "Christmas Love",
@@ -1053,6 +1053,21 @@
     {
       "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
       "streams": 5673632,
+      "trackId": "2PMEMxJCxOz0RGT0mQXXZq",
+      "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
+      "previousStreams": 5671233,
+      "dailyGain": 2399,
+      "yesterdayGain": 1953,
+      "gainDifference": 446,
+      "formattedStreams": "5.7M",
+      "formattedDailyGain": "+2.4K",
+      "formattedGainDifference": "+446"
+    },
+    {
+      "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
+      "streams": 5673632,
       "trackId": "1XE3rehhUySx3O1fALkswV",
       "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
       "releaseType": "SINGLE",
@@ -1064,21 +1079,6 @@
       "formattedStreams": "5.7M",
       "formattedDailyGain": "+2.4K",
       "formattedGainDifference": "+446"
-    },
-    {
-      "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
-      "streams": 5671233,
-      "trackId": "2PMEMxJCxOz0RGT0mQXXZq",
-      "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
-      "previousStreams": 5671233,
-      "dailyGain": 0,
-      "yesterdayGain": 1953,
-      "gainDifference": -1953,
-      "formattedStreams": "5.7M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "-1953"
     },
     {
       "title": "Angel Pt. 2 - Sped Up",
@@ -1662,98 +1662,98 @@
       "title": "FACE",
       "type": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
-      "streams": 2815195967,
-      "dailyGain": 0,
+      "streams": 2815783771,
+      "dailyGain": 587804,
       "songs": [
         {
           "title": "Like Crazy",
-          "streams": 1474349905,
+          "streams": 1474592984,
           "trackId": "3Ua0m0YmEjrMi9XErKcNiR",
           "release": "FACE",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
           "previousStreams": 1474349905,
-          "dailyGain": 0,
+          "dailyGain": 243079,
           "yesterdayGain": 233988,
-          "gainDifference": -233988,
+          "gainDifference": 9091,
           "formattedStreams": "1.47B",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-233988"
+          "formattedDailyGain": "+243.1K",
+          "formattedGainDifference": "+9.1K"
         },
         {
           "title": "Set Me Free Pt.2",
-          "streams": 484299416,
+          "streams": 484470231,
           "trackId": "1fpj1CJPxY3YvN3AMAEYvt",
           "release": "FACE",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
           "previousStreams": 484299416,
-          "dailyGain": 0,
+          "dailyGain": 170815,
           "yesterdayGain": 173877,
-          "gainDifference": -173877,
-          "formattedStreams": "484.3M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-173877"
+          "gainDifference": -3062,
+          "formattedStreams": "484.5M",
+          "formattedDailyGain": "+170.8K",
+          "formattedGainDifference": "-3062"
         },
         {
           "title": "Like Crazy (English Version)",
-          "streams": 402923321,
+          "streams": 402986236,
           "trackId": "0u8rZGtXJrLtiSe34FPjGG",
           "release": "FACE",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
           "previousStreams": 402923321,
-          "dailyGain": 0,
+          "dailyGain": 62915,
           "yesterdayGain": 58330,
-          "gainDifference": -58330,
-          "formattedStreams": "402.9M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-58330"
+          "gainDifference": 4585,
+          "formattedStreams": "403M",
+          "formattedDailyGain": "+62.9K",
+          "formattedGainDifference": "+4.6K"
         },
         {
           "title": "Face-off",
-          "streams": 169772545,
+          "streams": 169820096,
           "trackId": "3OdIiWnYRHPYtC313Z0Bwy",
           "release": "FACE",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
           "previousStreams": 169772545,
-          "dailyGain": 0,
+          "dailyGain": 47551,
           "yesterdayGain": 45055,
-          "gainDifference": -45055,
+          "gainDifference": 2496,
           "formattedStreams": "169.8M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-45055"
+          "formattedDailyGain": "+47.6K",
+          "formattedGainDifference": "+2.5K"
         },
         {
           "title": "Alone",
-          "streams": 156652091,
+          "streams": 156694037,
           "trackId": "5Hfnps0jaWFpYg55WOPexG",
           "release": "FACE",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
           "previousStreams": 156652091,
-          "dailyGain": 0,
+          "dailyGain": 41946,
           "yesterdayGain": 40653,
-          "gainDifference": -40653,
+          "gainDifference": 1293,
           "formattedStreams": "156.7M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-40653"
+          "formattedDailyGain": "+41.9K",
+          "formattedGainDifference": "+1.3K"
         },
         {
           "title": "Interlude : Dive",
-          "streams": 127198689,
+          "streams": 127220187,
           "trackId": "2qg2jy3v50RwfV5FAqG3a2",
           "release": "FACE",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
           "previousStreams": 127198689,
-          "dailyGain": 0,
+          "dailyGain": 21498,
           "yesterdayGain": 19526,
-          "gainDifference": -19526,
+          "gainDifference": 1972,
           "formattedStreams": "127.2M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-19526"
+          "formattedDailyGain": "+21.5K",
+          "formattedGainDifference": "+2K"
         }
       ]
     },
@@ -1977,38 +1977,53 @@
       "title": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
-      "streams": 393362118,
-      "dailyGain": 2399,
+      "streams": 393436523,
+      "dailyGain": 76804,
       "songs": [
         {
           "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, Jimin of BTS, JVKE & Muni Long)",
-          "streams": 247969783,
+          "streams": 248003941,
           "trackId": "1FEGCMAqh9wzjVM7bPBORE",
           "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
           "previousStreams": 247969783,
-          "dailyGain": 0,
+          "dailyGain": 34158,
           "yesterdayGain": 33773,
-          "gainDifference": -33773,
+          "gainDifference": 385,
           "formattedStreams": "248M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-33773"
+          "formattedDailyGain": "+34.2K",
+          "formattedGainDifference": "+385"
         },
         {
           "title": "Angel Pt. 2 (feat. Jimin of BTS & JVKE feat. Charlie Puth & Muni Long)",
-          "streams": 134047470,
+          "streams": 134085318,
           "trackId": "3gSobY1JXFJn6wh1ON35ni",
           "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
           "previousStreams": 134047470,
-          "dailyGain": 0,
+          "dailyGain": 37848,
           "yesterdayGain": 34792,
-          "gainDifference": -34792,
-          "formattedStreams": "134M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-34792"
+          "gainDifference": 3056,
+          "formattedStreams": "134.1M",
+          "formattedDailyGain": "+37.8K",
+          "formattedGainDifference": "+3.1K"
+        },
+        {
+          "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
+          "streams": 5673632,
+          "trackId": "2PMEMxJCxOz0RGT0mQXXZq",
+          "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
+          "releaseType": "SINGLE",
+          "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
+          "previousStreams": 5671233,
+          "dailyGain": 2399,
+          "yesterdayGain": 1953,
+          "gainDifference": 446,
+          "formattedStreams": "5.7M",
+          "formattedDailyGain": "+2.4K",
+          "formattedGainDifference": "+446"
         },
         {
           "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
@@ -2024,21 +2039,6 @@
           "formattedStreams": "5.7M",
           "formattedDailyGain": "+2.4K",
           "formattedGainDifference": "+446"
-        },
-        {
-          "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
-          "streams": 5671233,
-          "trackId": "2PMEMxJCxOz0RGT0mQXXZq",
-          "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
-          "releaseType": "SINGLE",
-          "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
-          "previousStreams": 5671233,
-          "dailyGain": 0,
-          "yesterdayGain": 1953,
-          "gainDifference": -1953,
-          "formattedStreams": "5.7M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-1953"
         }
       ]
     },
@@ -2046,8 +2046,8 @@
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02445afb6341d2685b959251cc",
-      "streams": 358476172,
-      "dailyGain": 42111,
+      "streams": 358484125,
+      "dailyGain": 50064,
       "songs": [
         {
           "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
@@ -2081,18 +2081,18 @@
         },
         {
           "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
-          "streams": 55232139,
+          "streams": 55240092,
           "trackId": "5qyjy0xfsHNzWxvXkHVB85",
           "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02146ea147ce8c185e71b3b84e",
           "previousStreams": 55232139,
-          "dailyGain": 0,
+          "dailyGain": 7953,
           "yesterdayGain": 7900,
-          "gainDifference": -7900,
+          "gainDifference": 53,
           "formattedStreams": "55.2M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-7900"
+          "formattedDailyGain": "+8K",
+          "formattedGainDifference": "+53"
         }
       ]
     },
@@ -2352,23 +2352,23 @@
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e023af4efcbc640cf0cb0888d63",
-      "streams": 134047470,
-      "dailyGain": 0,
+      "streams": 134085318,
+      "dailyGain": 37848,
       "songs": [
         {
           "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
-          "streams": 134047470,
+          "streams": 134085318,
           "trackId": "0ApadYqa3GRQkJJ3E7pQDJ",
           "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e023af4efcbc640cf0cb0888d63",
           "previousStreams": 134047470,
-          "dailyGain": 0,
+          "dailyGain": 37848,
           "yesterdayGain": 34792,
-          "gainDifference": -34792,
-          "formattedStreams": "134M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "-34792"
+          "gainDifference": 3056,
+          "formattedStreams": "134.1M",
+          "formattedDailyGain": "+37.8K",
+          "formattedGainDifference": "+3.1K"
         }
       ]
     },
