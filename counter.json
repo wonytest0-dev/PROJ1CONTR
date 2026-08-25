@@ -142,13 +142,13 @@
       "release": "Be Mine (English Version)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0219655636129722b4bd720dbc",
-      "previousStreams": 404598578,
-      "dailyGain": 0,
-      "yesterdayGain": 0,
-      "gainDifference": 0,
+      "previousStreams": 404375899,
+      "dailyGain": 222679,
+      "yesterdayGain": 213879,
+      "gainDifference": 8800,
       "formattedStreams": "404.6M",
-      "formattedDailyGain": "0",
-      "formattedGainDifference": "0"
+      "formattedDailyGain": "+222.7K",
+      "formattedGainDifference": "+8.8K"
     },
     {
       "title": "Be Mine",
@@ -1963,13 +1963,13 @@
           "release": "Be Mine (English Version)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0219655636129722b4bd720dbc",
-          "previousStreams": 404598578,
-          "dailyGain": 0,
-          "yesterdayGain": 0,
-          "gainDifference": 0,
-          "formattedStreams": "404.6M",
-          "formattedDailyGain": "0",
-          "formattedGainDifference": "0"
+          "previousStreams": 404375899,
+      "dailyGain": 222679,
+      "yesterdayGain": 213879,
+      "gainDifference": 8800,
+      "formattedStreams": "404.6M",
+      "formattedDailyGain": "+222.7K",
+      "formattedGainDifference": "+8.8K"
         }
       ]
     },
