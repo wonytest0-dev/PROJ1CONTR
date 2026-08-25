@@ -1,20 +1,35 @@
 {
-  "updated": "2026-08-23",
+  "updated": "2026-08-24",
   "spotifyUpdated": true,
   "artist": {
     "name": "Jimin",
-    "followers": 12945590,
-    "formattedFollowers": "12.9M",
+    "followers": 12950582,
+    "formattedFollowers": "13M",
     "monthlyListeners": 5471193,
     "formattedMonthlyListeners": "5.5M"
   },
   "summary": {
-    "totalStreams": 8566529348,
-    "formattedStreams": "8.57B",
-    "totalDailyGain": 2723532,
-    "formattedDailyGain": "+2.7M"
+    "totalStreams": 13373435186,
+    "formattedStreams": "13.37B",
+    "totalDailyGain": 1776355,
+    "formattedDailyGain": "+1.8M"
   },
   "songs": [
+    {
+      "title": "Who",
+      "streams": 2524554889,
+      "trackId": "7tI8dRuH2Yc6RuoTjxo4dU",
+      "release": "MUSE",
+      "releaseType": "ALBUM",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
+      "previousStreams": 2523469176,
+      "dailyGain": 1085713,
+      "yesterdayGain": 1224293,
+      "gainDifference": -138580,
+      "formattedStreams": "2.52B",
+      "formattedDailyGain": "+1.1M",
+      "formattedGainDifference": "-138580"
+    },
     {
       "title": "Who",
       "streams": 2523469176,
@@ -22,13 +37,13 @@
       "release": "MUSE (WANDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-      "previousStreams": 2522244883,
-      "dailyGain": 1224293,
-      "yesterdayGain": 1250849,
-      "gainDifference": -26556,
+      "previousStreams": 2523469176,
+      "dailyGain": 0,
+      "yesterdayGain": 1224293,
+      "gainDifference": -1224293,
       "formattedStreams": "2.52B",
-      "formattedDailyGain": "+1.2M",
-      "formattedGainDifference": "-26556"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-1224293"
     },
     {
       "title": "Who",
@@ -37,13 +52,13 @@
       "release": "MUSE (WONDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-      "previousStreams": 2522244883,
-      "dailyGain": 1224293,
-      "yesterdayGain": 1250849,
-      "gainDifference": -26556,
+      "previousStreams": 2523469176,
+      "dailyGain": 0,
+      "yesterdayGain": 1224293,
+      "gainDifference": -1224293,
       "formattedStreams": "2.52B",
-      "formattedDailyGain": "+1.2M",
-      "formattedGainDifference": "-26556"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-1224293"
     },
     {
       "title": "Who",
@@ -52,28 +67,13 @@
       "release": "Who (Remixes)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
-      "previousStreams": 2522244883,
-      "dailyGain": 1224293,
-      "yesterdayGain": 1250849,
-      "gainDifference": -26556,
+      "previousStreams": 2523469176,
+      "dailyGain": 0,
+      "yesterdayGain": 1224293,
+      "gainDifference": -1224293,
       "formattedStreams": "2.52B",
-      "formattedDailyGain": "+1.2M",
-      "formattedGainDifference": "-26556"
-    },
-    {
-      "title": "Who",
-      "streams": 2523469176,
-      "trackId": "7tI8dRuH2Yc6RuoTjxo4dU",
-      "release": "MUSE",
-      "releaseType": "ALBUM",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-      "previousStreams": 2522244883,
-      "dailyGain": 1224293,
-      "yesterdayGain": 1250849,
-      "gainDifference": -26556,
-      "formattedStreams": "2.52B",
-      "formattedDailyGain": "+1.2M",
-      "formattedGainDifference": "-26556"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-1224293"
     },
     {
       "title": "Like Crazy",
@@ -82,13 +82,13 @@
       "release": "Like Crazy (Remixes)",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e02f9638e7ed5b7d42e9c514195",
-      "previousStreams": 1475650036,
-      "dailyGain": 233282,
-      "yesterdayGain": 240195,
-      "gainDifference": -6913,
+      "previousStreams": 1475883318,
+      "dailyGain": 0,
+      "yesterdayGain": 233282,
+      "gainDifference": -233282,
       "formattedStreams": "1.48B",
-      "formattedDailyGain": "+233.3K",
-      "formattedGainDifference": "-6913"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-233282"
     },
     {
       "title": "Like Crazy",
@@ -97,13 +97,13 @@
       "release": "FACE",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
-      "previousStreams": 1475650036,
-      "dailyGain": 233282,
-      "yesterdayGain": 240195,
-      "gainDifference": -6913,
+      "previousStreams": 1475883318,
+      "dailyGain": 0,
+      "yesterdayGain": 233282,
+      "gainDifference": -233282,
       "formattedStreams": "1.48B",
-      "formattedDailyGain": "+233.3K",
-      "formattedGainDifference": "-6913"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-233282"
     },
     {
       "title": "Set Me Free Pt.2",
@@ -112,13 +112,13 @@
       "release": "FACE",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
-      "previousStreams": 485231504,
-      "dailyGain": 155863,
-      "yesterdayGain": 165609,
-      "gainDifference": -9746,
+      "previousStreams": 485387367,
+      "dailyGain": 0,
+      "yesterdayGain": 155863,
+      "gainDifference": -155863,
       "formattedStreams": "485.4M",
-      "formattedDailyGain": "+155.9K",
-      "formattedGainDifference": "-9746"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-155863"
     },
     {
       "title": "Set Me Free Pt.2",
@@ -127,28 +127,43 @@
       "release": "Set Me Free Pt.2",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e024f4ec2c2a865569bd4a067a4",
-      "previousStreams": 485231504,
-      "dailyGain": 155863,
-      "yesterdayGain": 165609,
-      "gainDifference": -9746,
+      "previousStreams": 485387367,
+      "dailyGain": 0,
+      "yesterdayGain": 155863,
+      "gainDifference": -155863,
       "formattedStreams": "485.4M",
-      "formattedDailyGain": "+155.9K",
-      "formattedGainDifference": "-9746"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-155863"
     },
     {
-      "title": "Be Mine (English Version)",
-      "streams": 404375899,
+      "title": "Be Mine - English Version",
+      "streams": 404598578,
       "trackId": "4DairgmwgyfmFHm0e7kRPL",
       "release": "Be Mine (English Version)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0219655636129722b4bd720dbc",
-      "previousStreams": 404162020,
-      "dailyGain": 213879,
-      "yesterdayGain": 217303,
-      "gainDifference": -3424,
-      "formattedStreams": "404.4M",
-      "formattedDailyGain": "+213.9K",
-      "formattedGainDifference": "-3424"
+      "previousStreams": 404598578,
+      "dailyGain": 0,
+      "yesterdayGain": 0,
+      "gainDifference": 0,
+      "formattedStreams": "404.6M",
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "0"
+    },
+    {
+      "title": "Be Mine",
+      "streams": 404598578,
+      "trackId": "3LWVXp636uLT356Rj08Jaz",
+      "release": "MUSE",
+      "releaseType": "ALBUM",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
+      "previousStreams": 404375899,
+      "dailyGain": 222679,
+      "yesterdayGain": 213879,
+      "gainDifference": 8800,
+      "formattedStreams": "404.6M",
+      "formattedDailyGain": "+222.7K",
+      "formattedGainDifference": "+8.8K"
     },
     {
       "title": "Be Mine",
@@ -157,13 +172,13 @@
       "release": "MUSE (WANDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-      "previousStreams": 404162020,
-      "dailyGain": 213879,
-      "yesterdayGain": 217303,
-      "gainDifference": -3424,
+      "previousStreams": 404375899,
+      "dailyGain": 0,
+      "yesterdayGain": 213879,
+      "gainDifference": -213879,
       "formattedStreams": "404.4M",
-      "formattedDailyGain": "+213.9K",
-      "formattedGainDifference": "-3424"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-213879"
     },
     {
       "title": "Be Mine",
@@ -172,28 +187,13 @@
       "release": "MUSE (WONDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-      "previousStreams": 404162020,
-      "dailyGain": 213879,
-      "yesterdayGain": 217303,
-      "gainDifference": -3424,
+      "previousStreams": 404375899,
+      "dailyGain": 0,
+      "yesterdayGain": 213879,
+      "gainDifference": -213879,
       "formattedStreams": "404.4M",
-      "formattedDailyGain": "+213.9K",
-      "formattedGainDifference": "-3424"
-    },
-    {
-      "title": "Be Mine",
-      "streams": 404375899,
-      "trackId": "3LWVXp636uLT356Rj08Jaz",
-      "release": "MUSE",
-      "releaseType": "ALBUM",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-      "previousStreams": 404162020,
-      "dailyGain": 213879,
-      "yesterdayGain": 217303,
-      "gainDifference": -3424,
-      "formattedStreams": "404.4M",
-      "formattedDailyGain": "+213.9K",
-      "formattedGainDifference": "-3424"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-213879"
     },
     {
       "title": "Like Crazy (English Version)",
@@ -202,13 +202,13 @@
       "release": "Like Crazy (Remixes)",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e02f9638e7ed5b7d42e9c514195",
-      "previousStreams": 403237714,
-      "dailyGain": 55382,
-      "yesterdayGain": 58173,
-      "gainDifference": -2791,
+      "previousStreams": 403293096,
+      "dailyGain": 0,
+      "yesterdayGain": 55382,
+      "gainDifference": -55382,
       "formattedStreams": "403.3M",
-      "formattedDailyGain": "+55.4K",
-      "formattedGainDifference": "-2791"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-55382"
     },
     {
       "title": "Like Crazy (English Version)",
@@ -217,13 +217,28 @@
       "release": "FACE",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
-      "previousStreams": 403237714,
-      "dailyGain": 55382,
-      "yesterdayGain": 58173,
-      "gainDifference": -2791,
+      "previousStreams": 403293096,
+      "dailyGain": 0,
+      "yesterdayGain": 55382,
+      "gainDifference": -55382,
       "formattedStreams": "403.3M",
-      "formattedDailyGain": "+55.4K",
-      "formattedGainDifference": "-2791"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-55382"
+    },
+    {
+      "title": "Closer Than This",
+      "streams": 336604114,
+      "trackId": "6qafqn8bBMy7t5c5WqpyRk",
+      "release": "MUSE",
+      "releaseType": "ALBUM",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
+      "previousStreams": 336516010,
+      "dailyGain": 88104,
+      "yesterdayGain": 73696,
+      "gainDifference": 14408,
+      "formattedStreams": "336.6M",
+      "formattedDailyGain": "+88.1K",
+      "formattedGainDifference": "+14.4K"
     },
     {
       "title": "Closer Than This",
@@ -232,13 +247,13 @@
       "release": "MUSE (WANDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-      "previousStreams": 336442314,
-      "dailyGain": 73696,
-      "yesterdayGain": 79391,
-      "gainDifference": -5695,
+      "previousStreams": 336516010,
+      "dailyGain": 0,
+      "yesterdayGain": 73696,
+      "gainDifference": -73696,
       "formattedStreams": "336.5M",
-      "formattedDailyGain": "+73.7K",
-      "formattedGainDifference": "-5695"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-73696"
     },
     {
       "title": "Closer Than This",
@@ -247,28 +262,13 @@
       "release": "MUSE (WONDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-      "previousStreams": 336442314,
-      "dailyGain": 73696,
-      "yesterdayGain": 79391,
-      "gainDifference": -5695,
+      "previousStreams": 336516010,
+      "dailyGain": 0,
+      "yesterdayGain": 73696,
+      "gainDifference": -73696,
       "formattedStreams": "336.5M",
-      "formattedDailyGain": "+73.7K",
-      "formattedGainDifference": "-5695"
-    },
-    {
-      "title": "Closer Than This",
-      "streams": 336516010,
-      "trackId": "6qafqn8bBMy7t5c5WqpyRk",
-      "release": "MUSE",
-      "releaseType": "ALBUM",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-      "previousStreams": 336442314,
-      "dailyGain": 73696,
-      "yesterdayGain": 79391,
-      "gainDifference": -5695,
-      "formattedStreams": "336.5M",
-      "formattedDailyGain": "+73.7K",
-      "formattedGainDifference": "-5695"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-73696"
     },
     {
       "title": "Closer Than This",
@@ -277,13 +277,13 @@
       "release": "Closer Than This",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02e3dbc03f538633dbb40adf37",
-      "previousStreams": 336442314,
-      "dailyGain": 73696,
-      "yesterdayGain": 79391,
-      "gainDifference": -5695,
+      "previousStreams": 336516010,
+      "dailyGain": 0,
+      "yesterdayGain": 73696,
+      "gainDifference": -73696,
       "formattedStreams": "336.5M",
-      "formattedDailyGain": "+73.7K",
-      "formattedGainDifference": "-5695"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-73696"
     },
     {
       "title": "With you",
@@ -292,13 +292,13 @@
       "release": "Our Blues, Pt. 4 (Original Television Soundtrack)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02d90bd8b97e49216c00e55d18",
-      "previousStreams": 327877972,
-      "dailyGain": 40715,
-      "yesterdayGain": 42746,
-      "gainDifference": -2031,
+      "previousStreams": 327918687,
+      "dailyGain": 0,
+      "yesterdayGain": 40715,
+      "gainDifference": -40715,
       "formattedStreams": "327.9M",
-      "formattedDailyGain": "+40.7K",
-      "formattedGainDifference": "-2031"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-40715"
     },
     {
       "title": "VIBE (feat. Jimin of BTS)",
@@ -307,13 +307,28 @@
       "release": "VIBE (feat. Jimin of BTS)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02278d6cf14513bd97cb580fe7",
-      "previousStreams": 278618712,
-      "dailyGain": 51285,
-      "yesterdayGain": 55602,
-      "gainDifference": -4317,
+      "previousStreams": 278669997,
+      "dailyGain": 0,
+      "yesterdayGain": 51285,
+      "gainDifference": -51285,
       "formattedStreams": "278.7M",
-      "formattedDailyGain": "+51.3K",
-      "formattedGainDifference": "-4317"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-51285"
+    },
+    {
+      "title": "Smeraldo Garden Marching Band (feat. Loco)",
+      "streams": 278296555,
+      "trackId": "1agDCV4zQqaFwJQNsTgmL1",
+      "release": "MUSE",
+      "releaseType": "ALBUM",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
+      "previousStreams": 278212605,
+      "dailyGain": 83950,
+      "yesterdayGain": 75951,
+      "gainDifference": 7999,
+      "formattedStreams": "278.3M",
+      "formattedDailyGain": "+84K",
+      "formattedGainDifference": "+8K"
     },
     {
       "title": "Smeraldo Garden Marching Band (feat. Loco)",
@@ -322,13 +337,13 @@
       "release": "MUSE (WANDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-      "previousStreams": 278136654,
-      "dailyGain": 75951,
-      "yesterdayGain": 81511,
-      "gainDifference": -5560,
+      "previousStreams": 278212605,
+      "dailyGain": 0,
+      "yesterdayGain": 75951,
+      "gainDifference": -75951,
       "formattedStreams": "278.2M",
-      "formattedDailyGain": "+76K",
-      "formattedGainDifference": "-5560"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-75951"
     },
     {
       "title": "Smeraldo Garden Marching Band (feat. Loco)",
@@ -337,28 +352,13 @@
       "release": "MUSE (WONDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-      "previousStreams": 278136654,
-      "dailyGain": 75951,
-      "yesterdayGain": 81511,
-      "gainDifference": -5560,
+      "previousStreams": 278212605,
+      "dailyGain": 0,
+      "yesterdayGain": 75951,
+      "gainDifference": -75951,
       "formattedStreams": "278.2M",
-      "formattedDailyGain": "+76K",
-      "formattedGainDifference": "-5560"
-    },
-    {
-      "title": "Smeraldo Garden Marching Band (feat. Loco)",
-      "streams": 278212605,
-      "trackId": "1agDCV4zQqaFwJQNsTgmL1",
-      "release": "MUSE",
-      "releaseType": "ALBUM",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-      "previousStreams": 278136654,
-      "dailyGain": 75951,
-      "yesterdayGain": 81511,
-      "gainDifference": -5560,
-      "formattedStreams": "278.2M",
-      "formattedDailyGain": "+76K",
-      "formattedGainDifference": "-5560"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-75951"
     },
     {
       "title": "Smeraldo Garden Marching Band (feat. Loco)",
@@ -367,13 +367,58 @@
       "release": "Smeraldo Garden Marching Band (feat. Loco)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0238881a83135ef5b4ace418ba",
-      "previousStreams": 278136654,
-      "dailyGain": 75951,
-      "yesterdayGain": 81511,
-      "gainDifference": -5560,
+      "previousStreams": 278212605,
+      "dailyGain": 0,
+      "yesterdayGain": 75951,
+      "gainDifference": -75951,
       "formattedStreams": "278.2M",
-      "formattedDailyGain": "+76K",
-      "formattedGainDifference": "-5560"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-75951"
+    },
+    {
+      "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "streams": 248202561,
+      "trackId": "4g1Ant3Me43Cm5Lx91bV8e",
+      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack)",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02beac2a5a6392353b63e5ef15",
+      "previousStreams": 248169292,
+      "dailyGain": 33269,
+      "yesterdayGain": 29763,
+      "gainDifference": 3506,
+      "formattedStreams": "248.2M",
+      "formattedDailyGain": "+33.3K",
+      "formattedGainDifference": "+3.5K"
+    },
+    {
+      "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "streams": 248202561,
+      "trackId": "4TZYldxfZlV3hKtZGl8kRb",
+      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
+      "previousStreams": 248169292,
+      "dailyGain": 33269,
+      "yesterdayGain": 29763,
+      "gainDifference": 3506,
+      "formattedStreams": "248.2M",
+      "formattedDailyGain": "+33.3K",
+      "formattedGainDifference": "+3.5K"
+    },
+    {
+      "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "streams": 248202561,
+      "trackId": "1vvcEHQdaUTvWt0EIUYcFK",
+      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02445afb6341d2685b959251cc",
+      "previousStreams": 248169292,
+      "dailyGain": 33269,
+      "yesterdayGain": 29763,
+      "gainDifference": 3506,
+      "formattedStreams": "248.2M",
+      "formattedDailyGain": "+33.3K",
+      "formattedGainDifference": "+3.5K"
     },
     {
       "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, Jimin of BTS, JVKE & Muni Long)",
@@ -382,13 +427,13 @@
       "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
-      "previousStreams": 248139529,
-      "dailyGain": 29763,
-      "yesterdayGain": 31794,
-      "gainDifference": -2031,
+      "previousStreams": 248169292,
+      "dailyGain": 0,
+      "yesterdayGain": 29763,
+      "gainDifference": -29763,
       "formattedStreams": "248.2M",
-      "formattedDailyGain": "+29.8K",
-      "formattedGainDifference": "-2031"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-29763"
     },
     {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
@@ -397,58 +442,13 @@
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0221ba737cb75af968200cf4bc",
-      "previousStreams": 248139529,
-      "dailyGain": 29763,
-      "yesterdayGain": 31794,
-      "gainDifference": -2031,
+      "previousStreams": 248169292,
+      "dailyGain": 0,
+      "yesterdayGain": 29763,
+      "gainDifference": -29763,
       "formattedStreams": "248.2M",
-      "formattedDailyGain": "+29.8K",
-      "formattedGainDifference": "-2031"
-    },
-    {
-      "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-      "streams": 248169292,
-      "trackId": "4g1Ant3Me43Cm5Lx91bV8e",
-      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack)",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02beac2a5a6392353b63e5ef15",
-      "previousStreams": 248139529,
-      "dailyGain": 29763,
-      "yesterdayGain": 31794,
-      "gainDifference": -2031,
-      "formattedStreams": "248.2M",
-      "formattedDailyGain": "+29.8K",
-      "formattedGainDifference": "-2031"
-    },
-    {
-      "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-      "streams": 248169292,
-      "trackId": "4TZYldxfZlV3hKtZGl8kRb",
-      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
-      "previousStreams": 248139529,
-      "dailyGain": 29763,
-      "yesterdayGain": 31794,
-      "gainDifference": -2031,
-      "formattedStreams": "248.2M",
-      "formattedDailyGain": "+29.8K",
-      "formattedGainDifference": "-2031"
-    },
-    {
-      "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-      "streams": 248169292,
-      "trackId": "1vvcEHQdaUTvWt0EIUYcFK",
-      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02445afb6341d2685b959251cc",
-      "previousStreams": 248139529,
-      "dailyGain": 29763,
-      "yesterdayGain": 31794,
-      "gainDifference": -2031,
-      "formattedStreams": "248.2M",
-      "formattedDailyGain": "+29.8K",
-      "formattedGainDifference": "-2031"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-29763"
     },
     {
       "title": "Face-off",
@@ -457,13 +457,13 @@
       "release": "FACE",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
-      "previousStreams": 170012580,
-      "dailyGain": 40026,
-      "yesterdayGain": 42164,
-      "gainDifference": -2138,
+      "previousStreams": 170052606,
+      "dailyGain": 0,
+      "yesterdayGain": 40026,
+      "gainDifference": -40026,
       "formattedStreams": "170.1M",
-      "formattedDailyGain": "+40K",
-      "formattedGainDifference": "-2138"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-40026"
     },
     {
       "title": "Alone",
@@ -472,13 +472,13 @@
       "release": "FACE",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
-      "previousStreams": 156880031,
-      "dailyGain": 41058,
-      "yesterdayGain": 42131,
-      "gainDifference": -1073,
+      "previousStreams": 156921089,
+      "dailyGain": 0,
+      "yesterdayGain": 41058,
+      "gainDifference": -41058,
       "formattedStreams": "156.9M",
-      "formattedDailyGain": "+41.1K",
-      "formattedGainDifference": "-1073"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-41058"
     },
     {
       "title": "Promise",
@@ -487,13 +487,28 @@
       "release": "Promise",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0221d21c44fa7a2495c37ce088",
-      "previousStreams": 151690418,
-      "dailyGain": 63567,
-      "yesterdayGain": 65639,
-      "gainDifference": -2072,
+      "previousStreams": 151753985,
+      "dailyGain": 0,
+      "yesterdayGain": 63567,
+      "gainDifference": -63567,
       "formattedStreams": "151.8M",
-      "formattedDailyGain": "+63.6K",
-      "formattedGainDifference": "-2072"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-63567"
+    },
+    {
+      "title": "Slow Dance (feat. Sofia Carson)",
+      "streams": 150803498,
+      "trackId": "3d2bsbugow8JiNvuaRupFH",
+      "release": "MUSE",
+      "releaseType": "ALBUM",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
+      "previousStreams": 150709168,
+      "dailyGain": 94330,
+      "yesterdayGain": 89121,
+      "gainDifference": 5209,
+      "formattedStreams": "150.8M",
+      "formattedDailyGain": "+94.3K",
+      "formattedGainDifference": "+5.2K"
     },
     {
       "title": "Slow Dance (feat. Sofia Carson)",
@@ -502,13 +517,13 @@
       "release": "MUSE (WANDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-      "previousStreams": 150620047,
-      "dailyGain": 89121,
-      "yesterdayGain": 92826,
-      "gainDifference": -3705,
+      "previousStreams": 150709168,
+      "dailyGain": 0,
+      "yesterdayGain": 89121,
+      "gainDifference": -89121,
       "formattedStreams": "150.7M",
-      "formattedDailyGain": "+89.1K",
-      "formattedGainDifference": "-3705"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-89121"
     },
     {
       "title": "Slow Dance (feat. Sofia Carson)",
@@ -517,28 +532,28 @@
       "release": "MUSE (WONDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-      "previousStreams": 150620047,
-      "dailyGain": 89121,
-      "yesterdayGain": 92826,
-      "gainDifference": -3705,
+      "previousStreams": 150709168,
+      "dailyGain": 0,
+      "yesterdayGain": 89121,
+      "gainDifference": -89121,
       "formattedStreams": "150.7M",
-      "formattedDailyGain": "+89.1K",
-      "formattedGainDifference": "-3705"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-89121"
     },
     {
-      "title": "Slow Dance (feat. Sofia Carson)",
-      "streams": 150709168,
-      "trackId": "3d2bsbugow8JiNvuaRupFH",
+      "title": "Rebirth (Intro)",
+      "streams": 143106702,
+      "trackId": "7gMfVc4zfNIxuMyMGglOHa",
       "release": "MUSE",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-      "previousStreams": 150620047,
-      "dailyGain": 89121,
-      "yesterdayGain": 92826,
-      "gainDifference": -3705,
-      "formattedStreams": "150.7M",
-      "formattedDailyGain": "+89.1K",
-      "formattedGainDifference": "-3705"
+      "previousStreams": 143035402,
+      "dailyGain": 71300,
+      "yesterdayGain": 64422,
+      "gainDifference": 6878,
+      "formattedStreams": "143.1M",
+      "formattedDailyGain": "+71.3K",
+      "formattedGainDifference": "+6.9K"
     },
     {
       "title": "Rebirth (Intro)",
@@ -547,13 +562,13 @@
       "release": "MUSE (WANDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-      "previousStreams": 142970980,
-      "dailyGain": 64422,
-      "yesterdayGain": 66312,
-      "gainDifference": -1890,
+      "previousStreams": 143035402,
+      "dailyGain": 0,
+      "yesterdayGain": 64422,
+      "gainDifference": -64422,
       "formattedStreams": "143M",
-      "formattedDailyGain": "+64.4K",
-      "formattedGainDifference": "-1890"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-64422"
     },
     {
       "title": "Rebirth (Intro)",
@@ -562,28 +577,28 @@
       "release": "MUSE (WONDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-      "previousStreams": 142970980,
-      "dailyGain": 64422,
-      "yesterdayGain": 66312,
-      "gainDifference": -1890,
+      "previousStreams": 143035402,
+      "dailyGain": 0,
+      "yesterdayGain": 64422,
+      "gainDifference": -64422,
       "formattedStreams": "143M",
-      "formattedDailyGain": "+64.4K",
-      "formattedGainDifference": "-1890"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-64422"
     },
     {
-      "title": "Rebirth (Intro)",
-      "streams": 143035402,
-      "trackId": "7gMfVc4zfNIxuMyMGglOHa",
-      "release": "MUSE",
-      "releaseType": "ALBUM",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-      "previousStreams": 142970980,
-      "dailyGain": 64422,
-      "yesterdayGain": 66312,
-      "gainDifference": -1890,
-      "formattedStreams": "143M",
-      "formattedDailyGain": "+64.4K",
-      "formattedGainDifference": "-1890"
+      "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
+      "streams": 134311639,
+      "trackId": "2yjeXq5ahx6UUg2rHaUe6X",
+      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
+      "previousStreams": 134271753,
+      "dailyGain": 39886,
+      "yesterdayGain": 32856,
+      "gainDifference": 7030,
+      "formattedStreams": "134.3M",
+      "formattedDailyGain": "+39.9K",
+      "formattedGainDifference": "+7K"
     },
     {
       "title": "Angel Pt. 2 (feat. Jimin of BTS & JVKE feat. Charlie Puth & Muni Long)",
@@ -592,13 +607,13 @@
       "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
-      "previousStreams": 134238897,
-      "dailyGain": 32856,
-      "yesterdayGain": 34981,
-      "gainDifference": -2125,
+      "previousStreams": 134271753,
+      "dailyGain": 0,
+      "yesterdayGain": 32856,
+      "gainDifference": -32856,
       "formattedStreams": "134.3M",
-      "formattedDailyGain": "+32.9K",
-      "formattedGainDifference": "-2125"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-32856"
     },
     {
       "title": "Angel Pt. 2",
@@ -607,13 +622,13 @@
       "release": "Angel Pt. 2 (Acoustic Version)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
-      "previousStreams": 134238897,
-      "dailyGain": 32856,
-      "yesterdayGain": 34981,
-      "gainDifference": -2125,
+      "previousStreams": 134271753,
+      "dailyGain": 0,
+      "yesterdayGain": 32856,
+      "gainDifference": -32856,
       "formattedStreams": "134.3M",
-      "formattedDailyGain": "+32.9K",
-      "formattedGainDifference": "-2125"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-32856"
     },
     {
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
@@ -622,13 +637,13 @@
       "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up) [FAST X Soundtrack]",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02deaa79daadaf2236d1ac1003",
-      "previousStreams": 134238897,
-      "dailyGain": 32856,
-      "yesterdayGain": 34981,
-      "gainDifference": -2125,
+      "previousStreams": 134271753,
+      "dailyGain": 0,
+      "yesterdayGain": 32856,
+      "gainDifference": -32856,
       "formattedStreams": "134.3M",
-      "formattedDailyGain": "+32.9K",
-      "formattedGainDifference": "-2125"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-32856"
     },
     {
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
@@ -637,13 +652,13 @@
       "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e023af4efcbc640cf0cb0888d63",
-      "previousStreams": 134238897,
-      "dailyGain": 32856,
-      "yesterdayGain": 34981,
-      "gainDifference": -2125,
+      "previousStreams": 134271753,
+      "dailyGain": 0,
+      "yesterdayGain": 32856,
+      "gainDifference": -32856,
       "formattedStreams": "134.3M",
-      "formattedDailyGain": "+32.9K",
-      "formattedGainDifference": "-2125"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-32856"
     },
     {
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
@@ -652,28 +667,13 @@
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0221ba737cb75af968200cf4bc",
-      "previousStreams": 134238897,
-      "dailyGain": 32856,
-      "yesterdayGain": 34981,
-      "gainDifference": -2125,
+      "previousStreams": 134271753,
+      "dailyGain": 0,
+      "yesterdayGain": 32856,
+      "gainDifference": -32856,
       "formattedStreams": "134.3M",
-      "formattedDailyGain": "+32.9K",
-      "formattedGainDifference": "-2125"
-    },
-    {
-      "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
-      "streams": 134271753,
-      "trackId": "2yjeXq5ahx6UUg2rHaUe6X",
-      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
-      "previousStreams": 134238897,
-      "dailyGain": 32856,
-      "yesterdayGain": 34981,
-      "gainDifference": -2125,
-      "formattedStreams": "134.3M",
-      "formattedDailyGain": "+32.9K",
-      "formattedGainDifference": "-2125"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-32856"
     },
     {
       "title": "Interlude : Dive",
@@ -682,13 +682,28 @@
       "release": "FACE",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
-      "previousStreams": 127300389,
-      "dailyGain": 17151,
-      "yesterdayGain": 17514,
-      "gainDifference": -363,
+      "previousStreams": 127317540,
+      "dailyGain": 0,
+      "yesterdayGain": 17151,
+      "gainDifference": -17151,
       "formattedStreams": "127.3M",
-      "formattedDailyGain": "+17.2K",
-      "formattedGainDifference": "-363"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-17151"
+    },
+    {
+      "title": "Interlude : Showtime",
+      "streams": 126543549,
+      "trackId": "45zLrK0668WQ5JFMyiYmCS",
+      "release": "MUSE",
+      "releaseType": "ALBUM",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
+      "previousStreams": 126493820,
+      "dailyGain": 49729,
+      "yesterdayGain": 48313,
+      "gainDifference": 1416,
+      "formattedStreams": "126.5M",
+      "formattedDailyGain": "+49.7K",
+      "formattedGainDifference": "+1.4K"
     },
     {
       "title": "Interlude : Showtime",
@@ -697,13 +712,13 @@
       "release": "MUSE (WANDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-      "previousStreams": 126445507,
-      "dailyGain": 48313,
-      "yesterdayGain": 48240,
-      "gainDifference": 73,
+      "previousStreams": 126493820,
+      "dailyGain": 0,
+      "yesterdayGain": 48313,
+      "gainDifference": -48313,
       "formattedStreams": "126.5M",
-      "formattedDailyGain": "+48.3K",
-      "formattedGainDifference": "+73"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-48313"
     },
     {
       "title": "Interlude : Showtime",
@@ -712,28 +727,13 @@
       "release": "MUSE (WONDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-      "previousStreams": 126445507,
-      "dailyGain": 48313,
-      "yesterdayGain": 48240,
-      "gainDifference": 73,
+      "previousStreams": 126493820,
+      "dailyGain": 0,
+      "yesterdayGain": 48313,
+      "gainDifference": -48313,
       "formattedStreams": "126.5M",
-      "formattedDailyGain": "+48.3K",
-      "formattedGainDifference": "+73"
-    },
-    {
-      "title": "Interlude : Showtime",
-      "streams": 126493820,
-      "trackId": "45zLrK0668WQ5JFMyiYmCS",
-      "release": "MUSE",
-      "releaseType": "ALBUM",
-      "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-      "previousStreams": 126445507,
-      "dailyGain": 48313,
-      "yesterdayGain": 48240,
-      "gainDifference": 73,
-      "formattedStreams": "126.5M",
-      "formattedDailyGain": "+48.3K",
-      "formattedGainDifference": "+73"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-48313"
     },
     {
       "title": "Who (Rock Remix)",
@@ -742,13 +742,13 @@
       "release": "MUSE (WONDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-      "previousStreams": 78673071,
-      "dailyGain": 36246,
-      "yesterdayGain": 39189,
-      "gainDifference": -2943,
+      "previousStreams": 78709317,
+      "dailyGain": 0,
+      "yesterdayGain": 36246,
+      "gainDifference": -36246,
       "formattedStreams": "78.7M",
-      "formattedDailyGain": "+36.2K",
-      "formattedGainDifference": "-2943"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-36246"
     },
     {
       "title": "Who (Rock Remix)",
@@ -757,13 +757,13 @@
       "release": "Who (Remixes)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
-      "previousStreams": 78673071,
-      "dailyGain": 36246,
-      "yesterdayGain": 39189,
-      "gainDifference": -2943,
+      "previousStreams": 78709317,
+      "dailyGain": 0,
+      "yesterdayGain": 36246,
+      "gainDifference": -36246,
       "formattedStreams": "78.7M",
-      "formattedDailyGain": "+36.2K",
-      "formattedGainDifference": "-2943"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-36246"
     },
     {
       "title": "Who (Acoustic Remix)",
@@ -772,13 +772,13 @@
       "release": "MUSE (WONDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-      "previousStreams": 76260981,
-      "dailyGain": 29494,
-      "yesterdayGain": 29123,
-      "gainDifference": 371,
+      "previousStreams": 76290475,
+      "dailyGain": 0,
+      "yesterdayGain": 29494,
+      "gainDifference": -29494,
       "formattedStreams": "76.3M",
-      "formattedDailyGain": "+29.5K",
-      "formattedGainDifference": "+371"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-29494"
     },
     {
       "title": "Who (Acoustic Remix)",
@@ -787,13 +787,13 @@
       "release": "Who (Remixes)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
-      "previousStreams": 76260981,
-      "dailyGain": 29494,
-      "yesterdayGain": 29123,
-      "gainDifference": 371,
+      "previousStreams": 76290475,
+      "dailyGain": 0,
+      "yesterdayGain": 29494,
+      "gainDifference": -29494,
       "formattedStreams": "76.3M",
-      "formattedDailyGain": "+29.5K",
-      "formattedGainDifference": "+371"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-29494"
     },
     {
       "title": "Who (Shibuyakei Remix)",
@@ -802,13 +802,13 @@
       "release": "MUSE (WANDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-      "previousStreams": 62405140,
-      "dailyGain": 17568,
-      "yesterdayGain": 16869,
-      "gainDifference": 699,
+      "previousStreams": 62422708,
+      "dailyGain": 0,
+      "yesterdayGain": 17568,
+      "gainDifference": -17568,
       "formattedStreams": "62.4M",
-      "formattedDailyGain": "+17.6K",
-      "formattedGainDifference": "+699"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-17568"
     },
     {
       "title": "Who (Shibuyakei Remix)",
@@ -817,13 +817,13 @@
       "release": "Who (Remixes)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
-      "previousStreams": 62405140,
-      "dailyGain": 17568,
-      "yesterdayGain": 16869,
-      "gainDifference": 699,
+      "previousStreams": 62422708,
+      "dailyGain": 0,
+      "yesterdayGain": 17568,
+      "gainDifference": -17568,
       "formattedStreams": "62.4M",
-      "formattedDailyGain": "+17.6K",
-      "formattedGainDifference": "+699"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-17568"
     },
     {
       "title": "Who (Instrumental)",
@@ -832,13 +832,13 @@
       "release": "MUSE (WONDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-      "previousStreams": 61293216,
-      "dailyGain": 16740,
-      "yesterdayGain": 15801,
-      "gainDifference": 939,
+      "previousStreams": 61309956,
+      "dailyGain": 0,
+      "yesterdayGain": 16740,
+      "gainDifference": -16740,
       "formattedStreams": "61.3M",
-      "formattedDailyGain": "+16.7K",
-      "formattedGainDifference": "+939"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-16740"
     },
     {
       "title": "Who (Instrumental)",
@@ -847,13 +847,13 @@
       "release": "Who (Remixes)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
-      "previousStreams": 61293216,
-      "dailyGain": 16740,
-      "yesterdayGain": 15801,
-      "gainDifference": 939,
+      "previousStreams": 61309956,
+      "dailyGain": 0,
+      "yesterdayGain": 16740,
+      "gainDifference": -16740,
       "formattedStreams": "61.3M",
-      "formattedDailyGain": "+16.7K",
-      "formattedGainDifference": "+939"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-16740"
     },
     {
       "title": "Who (Funky Remix)",
@@ -862,13 +862,13 @@
       "release": "MUSE (WANDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-      "previousStreams": 59967100,
-      "dailyGain": 16991,
-      "yesterdayGain": 16442,
-      "gainDifference": 549,
+      "previousStreams": 59984091,
+      "dailyGain": 0,
+      "yesterdayGain": 16991,
+      "gainDifference": -16991,
       "formattedStreams": "60M",
-      "formattedDailyGain": "+17K",
-      "formattedGainDifference": "+549"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-16991"
     },
     {
       "title": "Who (Funky Remix)",
@@ -877,13 +877,13 @@
       "release": "Who (Remixes)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
-      "previousStreams": 59967100,
-      "dailyGain": 16991,
-      "yesterdayGain": 16442,
-      "gainDifference": 549,
+      "previousStreams": 59984091,
+      "dailyGain": 0,
+      "yesterdayGain": 16991,
+      "gainDifference": -16991,
       "formattedStreams": "60M",
-      "formattedDailyGain": "+17K",
-      "formattedGainDifference": "+549"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-16991"
     },
     {
       "title": "Who (Beautiful Mind Remix)",
@@ -892,13 +892,13 @@
       "release": "MUSE (WANDER ver.)",
       "releaseType": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-      "previousStreams": 59705139,
-      "dailyGain": 17040,
-      "yesterdayGain": 16599,
-      "gainDifference": 441,
+      "previousStreams": 59722179,
+      "dailyGain": 0,
+      "yesterdayGain": 17040,
+      "gainDifference": -17040,
       "formattedStreams": "59.7M",
-      "formattedDailyGain": "+17K",
-      "formattedGainDifference": "+441"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-17040"
     },
     {
       "title": "Who (Beautiful Mind Remix)",
@@ -907,13 +907,28 @@
       "release": "Who (Remixes)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
-      "previousStreams": 59705139,
-      "dailyGain": 17040,
-      "yesterdayGain": 16599,
-      "gainDifference": 441,
+      "previousStreams": 59722179,
+      "dailyGain": 0,
+      "yesterdayGain": 17040,
+      "gainDifference": -17040,
       "formattedStreams": "59.7M",
-      "formattedDailyGain": "+17K",
-      "formattedGainDifference": "+441"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-17040"
+    },
+    {
+      "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
+      "streams": 55285175,
+      "trackId": "2GhOHZynysGm5B8R6iCihi",
+      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
+      "releaseType": "SINGLE",
+      "image": "https://i.scdn.co/image/ab67616d00001e02445afb6341d2685b959251cc",
+      "previousStreams": 55277780,
+      "dailyGain": 7395,
+      "yesterdayGain": 6986,
+      "gainDifference": 409,
+      "formattedStreams": "55.3M",
+      "formattedDailyGain": "+7.4K",
+      "formattedGainDifference": "+409"
     },
     {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
@@ -922,28 +937,13 @@
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0221ba737cb75af968200cf4bc",
-      "previousStreams": 55270794,
-      "dailyGain": 6986,
-      "yesterdayGain": 6961,
-      "gainDifference": 25,
+      "previousStreams": 55277780,
+      "dailyGain": 0,
+      "yesterdayGain": 6986,
+      "gainDifference": -6986,
       "formattedStreams": "55.3M",
-      "formattedDailyGain": "+7K",
-      "formattedGainDifference": "+25"
-    },
-    {
-      "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
-      "streams": 55277780,
-      "trackId": "2GhOHZynysGm5B8R6iCihi",
-      "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
-      "releaseType": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e02445afb6341d2685b959251cc",
-      "previousStreams": 55270794,
-      "dailyGain": 6986,
-      "yesterdayGain": 6961,
-      "gainDifference": 25,
-      "formattedStreams": "55.3M",
-      "formattedDailyGain": "+7K",
-      "formattedGainDifference": "+25"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-6986"
     },
     {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
@@ -952,13 +952,13 @@
       "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02146ea147ce8c185e71b3b84e",
-      "previousStreams": 55270794,
-      "dailyGain": 6986,
-      "yesterdayGain": 6961,
-      "gainDifference": 25,
+      "previousStreams": 55277780,
+      "dailyGain": 0,
+      "yesterdayGain": 6986,
+      "gainDifference": -6986,
       "formattedStreams": "55.3M",
-      "formattedDailyGain": "+7K",
-      "formattedGainDifference": "+25"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-6986"
     },
     {
       "title": "Christmas Love",
@@ -967,13 +967,13 @@
       "release": "Christmas Love",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e026102fbfee73db153a32d02ab",
-      "previousStreams": 50152481,
-      "dailyGain": 11243,
-      "yesterdayGain": 12009,
-      "gainDifference": -766,
+      "previousStreams": 50163724,
+      "dailyGain": 0,
+      "yesterdayGain": 11243,
+      "gainDifference": -11243,
       "formattedStreams": "50.2M",
-      "formattedDailyGain": "+11.2K",
-      "formattedGainDifference": "-766"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-11243"
     },
     {
       "title": "Like Crazy (Deep House Remix)",
@@ -982,13 +982,13 @@
       "release": "Like Crazy (Remixes)",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e02f9638e7ed5b7d42e9c514195",
-      "previousStreams": 37789926,
-      "dailyGain": 5375,
-      "yesterdayGain": 5972,
-      "gainDifference": -597,
+      "previousStreams": 37795301,
+      "dailyGain": 0,
+      "yesterdayGain": 5375,
+      "gainDifference": -5375,
       "formattedStreams": "37.8M",
-      "formattedDailyGain": "+5.4K",
-      "formattedGainDifference": "-597"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-5375"
     },
     {
       "title": "Like Crazy (UK Garage Remix)",
@@ -997,13 +997,13 @@
       "release": "Like Crazy (Remixes)",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e02f9638e7ed5b7d42e9c514195",
-      "previousStreams": 35951313,
-      "dailyGain": 4946,
-      "yesterdayGain": 5072,
-      "gainDifference": -126,
+      "previousStreams": 35956259,
+      "dailyGain": 0,
+      "yesterdayGain": 4946,
+      "gainDifference": -4946,
       "formattedStreams": "36M",
-      "formattedDailyGain": "+4.9K",
-      "formattedGainDifference": "-126"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-4946"
     },
     {
       "title": "Like Crazy (Instrumental)",
@@ -1012,13 +1012,13 @@
       "release": "Like Crazy (Remixes)",
       "releaseType": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e02f9638e7ed5b7d42e9c514195",
-      "previousStreams": 26471030,
-      "dailyGain": 4375,
-      "yesterdayGain": 4726,
-      "gainDifference": -351,
+      "previousStreams": 26475405,
+      "dailyGain": 0,
+      "yesterdayGain": 4375,
+      "gainDifference": -4375,
       "formattedStreams": "26.5M",
-      "formattedDailyGain": "+4.4K",
-      "formattedGainDifference": "-351"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-4375"
     },
     {
       "title": "With you - Instrumental",
@@ -1027,13 +1027,13 @@
       "release": "Our Blues, Pt. 4 (Original Television Soundtrack)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02d90bd8b97e49216c00e55d18",
-      "previousStreams": 21935948,
-      "dailyGain": 1182,
-      "yesterdayGain": 1170,
-      "gainDifference": 12,
+      "previousStreams": 21937130,
+      "dailyGain": 0,
+      "yesterdayGain": 1182,
+      "gainDifference": -1182,
       "formattedStreams": "21.9M",
-      "formattedDailyGain": "+1.2K",
-      "formattedGainDifference": "+12"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-1182"
     },
     {
       "title": "Angel Pt. 2 - Acoustic Version",
@@ -1042,13 +1042,13 @@
       "release": "Angel Pt. 2 (Acoustic Version)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
-      "previousStreams": 8148171,
-      "dailyGain": 2096,
-      "yesterdayGain": 1951,
-      "gainDifference": 145,
+      "previousStreams": 8150267,
+      "dailyGain": 0,
+      "yesterdayGain": 2096,
+      "gainDifference": -2096,
       "formattedStreams": "8.2M",
-      "formattedDailyGain": "+2.1K",
-      "formattedGainDifference": "+145"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-2096"
     },
     {
       "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
@@ -1057,13 +1057,13 @@
       "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
-      "previousStreams": 5682317,
-      "dailyGain": 1428,
-      "yesterdayGain": 1430,
-      "gainDifference": -2,
+      "previousStreams": 5683745,
+      "dailyGain": 0,
+      "yesterdayGain": 1428,
+      "gainDifference": -1428,
       "formattedStreams": "5.7M",
-      "formattedDailyGain": "+1.4K",
-      "formattedGainDifference": "-2"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-1428"
     },
     {
       "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
@@ -1072,13 +1072,13 @@
       "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e025cae2e3d2932cd9283cc53ff",
-      "previousStreams": 5682317,
-      "dailyGain": 1428,
-      "yesterdayGain": 1430,
-      "gainDifference": -2,
+      "previousStreams": 5683745,
+      "dailyGain": 0,
+      "yesterdayGain": 1428,
+      "gainDifference": -1428,
       "formattedStreams": "5.7M",
-      "formattedDailyGain": "+1.4K",
-      "formattedGainDifference": "-2"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-1428"
     },
     {
       "title": "Angel Pt. 2 - Sped Up",
@@ -1087,13 +1087,13 @@
       "release": "Angel Pt. 2 (Acoustic Version)",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
-      "previousStreams": 4199002,
-      "dailyGain": 1199,
-      "yesterdayGain": 1120,
-      "gainDifference": 79,
+      "previousStreams": 4200201,
+      "dailyGain": 0,
+      "yesterdayGain": 1199,
+      "gainDifference": -1199,
       "formattedStreams": "4.2M",
-      "formattedDailyGain": "+1.2K",
-      "formattedGainDifference": "+79"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-1199"
     },
     {
       "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up)",
@@ -1102,13 +1102,13 @@
       "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up) [FAST X Soundtrack]",
       "releaseType": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02deaa79daadaf2236d1ac1003",
-      "previousStreams": 4199002,
-      "dailyGain": 1199,
-      "yesterdayGain": 1120,
-      "gainDifference": 79,
+      "previousStreams": 4200201,
+      "dailyGain": 0,
+      "yesterdayGain": 1199,
+      "gainDifference": -1199,
       "formattedStreams": "4.2M",
-      "formattedDailyGain": "+1.2K",
-      "formattedGainDifference": "+79"
+      "formattedDailyGain": "0",
+      "formattedGainDifference": "-1199"
     }
   ],
   "releases": [
@@ -1117,7 +1117,7 @@
       "type": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
       "streams": 4179121828,
-      "dailyGain": 1872155,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "Who",
@@ -1126,13 +1126,13 @@
           "release": "MUSE (WONDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-          "previousStreams": 2522244883,
-          "dailyGain": 1224293,
-          "yesterdayGain": 1250849,
-          "gainDifference": -26556,
+          "previousStreams": 2523469176,
+          "dailyGain": 0,
+          "yesterdayGain": 1224293,
+          "gainDifference": -1224293,
           "formattedStreams": "2.52B",
-          "formattedDailyGain": "+1.2M",
-          "formattedGainDifference": "-26556"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-1224293"
         },
         {
           "title": "Be Mine",
@@ -1141,13 +1141,13 @@
           "release": "MUSE (WONDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-          "previousStreams": 404162020,
-          "dailyGain": 213879,
-          "yesterdayGain": 217303,
-          "gainDifference": -3424,
+          "previousStreams": 404375899,
+          "dailyGain": 0,
+          "yesterdayGain": 213879,
+          "gainDifference": -213879,
           "formattedStreams": "404.4M",
-          "formattedDailyGain": "+213.9K",
-          "formattedGainDifference": "-3424"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-213879"
         },
         {
           "title": "Closer Than This",
@@ -1156,13 +1156,13 @@
           "release": "MUSE (WONDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-          "previousStreams": 336442314,
-          "dailyGain": 73696,
-          "yesterdayGain": 79391,
-          "gainDifference": -5695,
+          "previousStreams": 336516010,
+          "dailyGain": 0,
+          "yesterdayGain": 73696,
+          "gainDifference": -73696,
           "formattedStreams": "336.5M",
-          "formattedDailyGain": "+73.7K",
-          "formattedGainDifference": "-5695"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-73696"
         },
         {
           "title": "Smeraldo Garden Marching Band (feat. Loco)",
@@ -1171,13 +1171,13 @@
           "release": "MUSE (WONDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-          "previousStreams": 278136654,
-          "dailyGain": 75951,
-          "yesterdayGain": 81511,
-          "gainDifference": -5560,
+          "previousStreams": 278212605,
+          "dailyGain": 0,
+          "yesterdayGain": 75951,
+          "gainDifference": -75951,
           "formattedStreams": "278.2M",
-          "formattedDailyGain": "+76K",
-          "formattedGainDifference": "-5560"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-75951"
         },
         {
           "title": "Slow Dance (feat. Sofia Carson)",
@@ -1186,13 +1186,13 @@
           "release": "MUSE (WONDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-          "previousStreams": 150620047,
-          "dailyGain": 89121,
-          "yesterdayGain": 92826,
-          "gainDifference": -3705,
+          "previousStreams": 150709168,
+          "dailyGain": 0,
+          "yesterdayGain": 89121,
+          "gainDifference": -89121,
           "formattedStreams": "150.7M",
-          "formattedDailyGain": "+89.1K",
-          "formattedGainDifference": "-3705"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-89121"
         },
         {
           "title": "Rebirth (Intro)",
@@ -1201,13 +1201,13 @@
           "release": "MUSE (WONDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-          "previousStreams": 142970980,
-          "dailyGain": 64422,
-          "yesterdayGain": 66312,
-          "gainDifference": -1890,
+          "previousStreams": 143035402,
+          "dailyGain": 0,
+          "yesterdayGain": 64422,
+          "gainDifference": -64422,
           "formattedStreams": "143M",
-          "formattedDailyGain": "+64.4K",
-          "formattedGainDifference": "-1890"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-64422"
         },
         {
           "title": "Interlude : Showtime",
@@ -1216,13 +1216,13 @@
           "release": "MUSE (WONDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-          "previousStreams": 126445507,
-          "dailyGain": 48313,
-          "yesterdayGain": 48240,
-          "gainDifference": 73,
+          "previousStreams": 126493820,
+          "dailyGain": 0,
+          "yesterdayGain": 48313,
+          "gainDifference": -48313,
           "formattedStreams": "126.5M",
-          "formattedDailyGain": "+48.3K",
-          "formattedGainDifference": "+73"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-48313"
         },
         {
           "title": "Who (Rock Remix)",
@@ -1231,13 +1231,13 @@
           "release": "MUSE (WONDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-          "previousStreams": 78673071,
-          "dailyGain": 36246,
-          "yesterdayGain": 39189,
-          "gainDifference": -2943,
+          "previousStreams": 78709317,
+          "dailyGain": 0,
+          "yesterdayGain": 36246,
+          "gainDifference": -36246,
           "formattedStreams": "78.7M",
-          "formattedDailyGain": "+36.2K",
-          "formattedGainDifference": "-2943"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-36246"
         },
         {
           "title": "Who (Acoustic Remix)",
@@ -1246,13 +1246,13 @@
           "release": "MUSE (WONDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-          "previousStreams": 76260981,
-          "dailyGain": 29494,
-          "yesterdayGain": 29123,
-          "gainDifference": 371,
+          "previousStreams": 76290475,
+          "dailyGain": 0,
+          "yesterdayGain": 29494,
+          "gainDifference": -29494,
           "formattedStreams": "76.3M",
-          "formattedDailyGain": "+29.5K",
-          "formattedGainDifference": "+371"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-29494"
         },
         {
           "title": "Who (Instrumental)",
@@ -1261,13 +1261,13 @@
           "release": "MUSE (WONDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f150d9f2e5e8148e5032fd7d",
-          "previousStreams": 61293216,
-          "dailyGain": 16740,
-          "yesterdayGain": 15801,
-          "gainDifference": 939,
+          "previousStreams": 61309956,
+          "dailyGain": 0,
+          "yesterdayGain": 16740,
+          "gainDifference": -16740,
           "formattedStreams": "61.3M",
-          "formattedDailyGain": "+16.7K",
-          "formattedGainDifference": "+939"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-16740"
         }
       ]
     },
@@ -1276,7 +1276,7 @@
       "type": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
       "streams": 4144941058,
-      "dailyGain": 1841274,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "Who",
@@ -1285,13 +1285,13 @@
           "release": "MUSE (WANDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-          "previousStreams": 2522244883,
-          "dailyGain": 1224293,
-          "yesterdayGain": 1250849,
-          "gainDifference": -26556,
+          "previousStreams": 2523469176,
+          "dailyGain": 0,
+          "yesterdayGain": 1224293,
+          "gainDifference": -1224293,
           "formattedStreams": "2.52B",
-          "formattedDailyGain": "+1.2M",
-          "formattedGainDifference": "-26556"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-1224293"
         },
         {
           "title": "Be Mine",
@@ -1300,13 +1300,13 @@
           "release": "MUSE (WANDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-          "previousStreams": 404162020,
-          "dailyGain": 213879,
-          "yesterdayGain": 217303,
-          "gainDifference": -3424,
+          "previousStreams": 404375899,
+          "dailyGain": 0,
+          "yesterdayGain": 213879,
+          "gainDifference": -213879,
           "formattedStreams": "404.4M",
-          "formattedDailyGain": "+213.9K",
-          "formattedGainDifference": "-3424"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-213879"
         },
         {
           "title": "Closer Than This",
@@ -1315,13 +1315,13 @@
           "release": "MUSE (WANDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-          "previousStreams": 336442314,
-          "dailyGain": 73696,
-          "yesterdayGain": 79391,
-          "gainDifference": -5695,
+          "previousStreams": 336516010,
+          "dailyGain": 0,
+          "yesterdayGain": 73696,
+          "gainDifference": -73696,
           "formattedStreams": "336.5M",
-          "formattedDailyGain": "+73.7K",
-          "formattedGainDifference": "-5695"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-73696"
         },
         {
           "title": "Smeraldo Garden Marching Band (feat. Loco)",
@@ -1330,13 +1330,13 @@
           "release": "MUSE (WANDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-          "previousStreams": 278136654,
-          "dailyGain": 75951,
-          "yesterdayGain": 81511,
-          "gainDifference": -5560,
+          "previousStreams": 278212605,
+          "dailyGain": 0,
+          "yesterdayGain": 75951,
+          "gainDifference": -75951,
           "formattedStreams": "278.2M",
-          "formattedDailyGain": "+76K",
-          "formattedGainDifference": "-5560"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-75951"
         },
         {
           "title": "Slow Dance (feat. Sofia Carson)",
@@ -1345,13 +1345,13 @@
           "release": "MUSE (WANDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-          "previousStreams": 150620047,
-          "dailyGain": 89121,
-          "yesterdayGain": 92826,
-          "gainDifference": -3705,
+          "previousStreams": 150709168,
+          "dailyGain": 0,
+          "yesterdayGain": 89121,
+          "gainDifference": -89121,
           "formattedStreams": "150.7M",
-          "formattedDailyGain": "+89.1K",
-          "formattedGainDifference": "-3705"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-89121"
         },
         {
           "title": "Rebirth (Intro)",
@@ -1360,13 +1360,13 @@
           "release": "MUSE (WANDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-          "previousStreams": 142970980,
-          "dailyGain": 64422,
-          "yesterdayGain": 66312,
-          "gainDifference": -1890,
+          "previousStreams": 143035402,
+          "dailyGain": 0,
+          "yesterdayGain": 64422,
+          "gainDifference": -64422,
           "formattedStreams": "143M",
-          "formattedDailyGain": "+64.4K",
-          "formattedGainDifference": "-1890"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-64422"
         },
         {
           "title": "Interlude : Showtime",
@@ -1375,13 +1375,13 @@
           "release": "MUSE (WANDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-          "previousStreams": 126445507,
-          "dailyGain": 48313,
-          "yesterdayGain": 48240,
-          "gainDifference": 73,
+          "previousStreams": 126493820,
+          "dailyGain": 0,
+          "yesterdayGain": 48313,
+          "gainDifference": -48313,
           "formattedStreams": "126.5M",
-          "formattedDailyGain": "+48.3K",
-          "formattedGainDifference": "+73"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-48313"
         },
         {
           "title": "Who (Shibuyakei Remix)",
@@ -1390,13 +1390,13 @@
           "release": "MUSE (WANDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-          "previousStreams": 62405140,
-          "dailyGain": 17568,
-          "yesterdayGain": 16869,
-          "gainDifference": 699,
+          "previousStreams": 62422708,
+          "dailyGain": 0,
+          "yesterdayGain": 17568,
+          "gainDifference": -17568,
           "formattedStreams": "62.4M",
-          "formattedDailyGain": "+17.6K",
-          "formattedGainDifference": "+699"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-17568"
         },
         {
           "title": "Who (Funky Remix)",
@@ -1405,13 +1405,13 @@
           "release": "MUSE (WANDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-          "previousStreams": 59967100,
-          "dailyGain": 16991,
-          "yesterdayGain": 16442,
-          "gainDifference": 549,
+          "previousStreams": 59984091,
+          "dailyGain": 0,
+          "yesterdayGain": 16991,
+          "gainDifference": -16991,
           "formattedStreams": "60M",
-          "formattedDailyGain": "+17K",
-          "formattedGainDifference": "+549"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-16991"
         },
         {
           "title": "Who (Beautiful Mind Remix)",
@@ -1420,13 +1420,13 @@
           "release": "MUSE (WANDER ver.)",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e0282601539d4a27061ad90eacb",
-          "previousStreams": 59705139,
-          "dailyGain": 17040,
-          "yesterdayGain": 16599,
-          "gainDifference": 441,
+          "previousStreams": 59722179,
+          "dailyGain": 0,
+          "yesterdayGain": 17040,
+          "gainDifference": -17040,
           "formattedStreams": "59.7M",
-          "formattedDailyGain": "+17K",
-          "formattedGainDifference": "+441"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-17040"
         }
       ]
     },
@@ -1434,113 +1434,113 @@
       "title": "MUSE",
       "type": "ALBUM",
       "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-      "streams": 3962812080,
-      "dailyGain": 1789675,
+      "streams": 3964507885,
+      "dailyGain": 1695805,
       "songs": [
         {
           "title": "Who",
-          "streams": 2523469176,
+          "streams": 2524554889,
           "trackId": "7tI8dRuH2Yc6RuoTjxo4dU",
           "release": "MUSE",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-          "previousStreams": 2522244883,
-          "dailyGain": 1224293,
-          "yesterdayGain": 1250849,
-          "gainDifference": -26556,
+          "previousStreams": 2523469176,
+          "dailyGain": 1085713,
+          "yesterdayGain": 1224293,
+          "gainDifference": -138580,
           "formattedStreams": "2.52B",
-          "formattedDailyGain": "+1.2M",
-          "formattedGainDifference": "-26556"
+          "formattedDailyGain": "+1.1M",
+          "formattedGainDifference": "-138580"
         },
         {
           "title": "Be Mine",
-          "streams": 404375899,
+          "streams": 404598578,
           "trackId": "3LWVXp636uLT356Rj08Jaz",
           "release": "MUSE",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-          "previousStreams": 404162020,
-          "dailyGain": 213879,
-          "yesterdayGain": 217303,
-          "gainDifference": -3424,
-          "formattedStreams": "404.4M",
-          "formattedDailyGain": "+213.9K",
-          "formattedGainDifference": "-3424"
+          "previousStreams": 404375899,
+          "dailyGain": 222679,
+          "yesterdayGain": 213879,
+          "gainDifference": 8800,
+          "formattedStreams": "404.6M",
+          "formattedDailyGain": "+222.7K",
+          "formattedGainDifference": "+8.8K"
         },
         {
           "title": "Closer Than This",
-          "streams": 336516010,
+          "streams": 336604114,
           "trackId": "6qafqn8bBMy7t5c5WqpyRk",
           "release": "MUSE",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-          "previousStreams": 336442314,
-          "dailyGain": 73696,
-          "yesterdayGain": 79391,
-          "gainDifference": -5695,
-          "formattedStreams": "336.5M",
-          "formattedDailyGain": "+73.7K",
-          "formattedGainDifference": "-5695"
+          "previousStreams": 336516010,
+          "dailyGain": 88104,
+          "yesterdayGain": 73696,
+          "gainDifference": 14408,
+          "formattedStreams": "336.6M",
+          "formattedDailyGain": "+88.1K",
+          "formattedGainDifference": "+14.4K"
         },
         {
           "title": "Smeraldo Garden Marching Band (feat. Loco)",
-          "streams": 278212605,
+          "streams": 278296555,
           "trackId": "1agDCV4zQqaFwJQNsTgmL1",
           "release": "MUSE",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-          "previousStreams": 278136654,
-          "dailyGain": 75951,
-          "yesterdayGain": 81511,
-          "gainDifference": -5560,
-          "formattedStreams": "278.2M",
-          "formattedDailyGain": "+76K",
-          "formattedGainDifference": "-5560"
+          "previousStreams": 278212605,
+          "dailyGain": 83950,
+          "yesterdayGain": 75951,
+          "gainDifference": 7999,
+          "formattedStreams": "278.3M",
+          "formattedDailyGain": "+84K",
+          "formattedGainDifference": "+8K"
         },
         {
           "title": "Slow Dance (feat. Sofia Carson)",
-          "streams": 150709168,
+          "streams": 150803498,
           "trackId": "3d2bsbugow8JiNvuaRupFH",
           "release": "MUSE",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-          "previousStreams": 150620047,
-          "dailyGain": 89121,
-          "yesterdayGain": 92826,
-          "gainDifference": -3705,
-          "formattedStreams": "150.7M",
-          "formattedDailyGain": "+89.1K",
-          "formattedGainDifference": "-3705"
+          "previousStreams": 150709168,
+          "dailyGain": 94330,
+          "yesterdayGain": 89121,
+          "gainDifference": 5209,
+          "formattedStreams": "150.8M",
+          "formattedDailyGain": "+94.3K",
+          "formattedGainDifference": "+5.2K"
         },
         {
           "title": "Rebirth (Intro)",
-          "streams": 143035402,
+          "streams": 143106702,
           "trackId": "7gMfVc4zfNIxuMyMGglOHa",
           "release": "MUSE",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-          "previousStreams": 142970980,
-          "dailyGain": 64422,
-          "yesterdayGain": 66312,
-          "gainDifference": -1890,
-          "formattedStreams": "143M",
-          "formattedDailyGain": "+64.4K",
-          "formattedGainDifference": "-1890"
+          "previousStreams": 143035402,
+          "dailyGain": 71300,
+          "yesterdayGain": 64422,
+          "gainDifference": 6878,
+          "formattedStreams": "143.1M",
+          "formattedDailyGain": "+71.3K",
+          "formattedGainDifference": "+6.9K"
         },
         {
           "title": "Interlude : Showtime",
-          "streams": 126493820,
+          "streams": 126543549,
           "trackId": "45zLrK0668WQ5JFMyiYmCS",
           "release": "MUSE",
           "releaseType": "ALBUM",
           "image": "https://i.scdn.co/image/ab67616d00001e02f02c451189a709b9a952aaec",
-          "previousStreams": 126445507,
-          "dailyGain": 48313,
-          "yesterdayGain": 48240,
-          "gainDifference": 73,
+          "previousStreams": 126493820,
+          "dailyGain": 49729,
+          "yesterdayGain": 48313,
+          "gainDifference": 1416,
           "formattedStreams": "126.5M",
-          "formattedDailyGain": "+48.3K",
-          "formattedGainDifference": "+73"
+          "formattedDailyGain": "+49.7K",
+          "formattedGainDifference": "+1.4K"
         }
       ]
     },
@@ -1549,7 +1549,7 @@
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
       "streams": 2921907902,
-      "dailyGain": 1358372,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "Who",
@@ -1558,13 +1558,13 @@
           "release": "Who (Remixes)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
-          "previousStreams": 2522244883,
-          "dailyGain": 1224293,
-          "yesterdayGain": 1250849,
-          "gainDifference": -26556,
+          "previousStreams": 2523469176,
+          "dailyGain": 0,
+          "yesterdayGain": 1224293,
+          "gainDifference": -1224293,
           "formattedStreams": "2.52B",
-          "formattedDailyGain": "+1.2M",
-          "formattedGainDifference": "-26556"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-1224293"
         },
         {
           "title": "Who (Rock Remix)",
@@ -1573,13 +1573,13 @@
           "release": "Who (Remixes)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
-          "previousStreams": 78673071,
-          "dailyGain": 36246,
-          "yesterdayGain": 39189,
-          "gainDifference": -2943,
+          "previousStreams": 78709317,
+          "dailyGain": 0,
+          "yesterdayGain": 36246,
+          "gainDifference": -36246,
           "formattedStreams": "78.7M",
-          "formattedDailyGain": "+36.2K",
-          "formattedGainDifference": "-2943"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-36246"
         },
         {
           "title": "Who (Acoustic Remix)",
@@ -1588,13 +1588,13 @@
           "release": "Who (Remixes)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
-          "previousStreams": 76260981,
-          "dailyGain": 29494,
-          "yesterdayGain": 29123,
-          "gainDifference": 371,
+          "previousStreams": 76290475,
+          "dailyGain": 0,
+          "yesterdayGain": 29494,
+          "gainDifference": -29494,
           "formattedStreams": "76.3M",
-          "formattedDailyGain": "+29.5K",
-          "formattedGainDifference": "+371"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-29494"
         },
         {
           "title": "Who (Shibuyakei Remix)",
@@ -1603,13 +1603,13 @@
           "release": "Who (Remixes)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
-          "previousStreams": 62405140,
-          "dailyGain": 17568,
-          "yesterdayGain": 16869,
-          "gainDifference": 699,
+          "previousStreams": 62422708,
+          "dailyGain": 0,
+          "yesterdayGain": 17568,
+          "gainDifference": -17568,
           "formattedStreams": "62.4M",
-          "formattedDailyGain": "+17.6K",
-          "formattedGainDifference": "+699"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-17568"
         },
         {
           "title": "Who (Instrumental)",
@@ -1618,13 +1618,13 @@
           "release": "Who (Remixes)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
-          "previousStreams": 61293216,
-          "dailyGain": 16740,
-          "yesterdayGain": 15801,
-          "gainDifference": 939,
+          "previousStreams": 61309956,
+          "dailyGain": 0,
+          "yesterdayGain": 16740,
+          "gainDifference": -16740,
           "formattedStreams": "61.3M",
-          "formattedDailyGain": "+16.7K",
-          "formattedGainDifference": "+939"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-16740"
         },
         {
           "title": "Who (Funky Remix)",
@@ -1633,13 +1633,13 @@
           "release": "Who (Remixes)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
-          "previousStreams": 59967100,
-          "dailyGain": 16991,
-          "yesterdayGain": 16442,
-          "gainDifference": 549,
+          "previousStreams": 59984091,
+          "dailyGain": 0,
+          "yesterdayGain": 16991,
+          "gainDifference": -16991,
           "formattedStreams": "60M",
-          "formattedDailyGain": "+17K",
-          "formattedGainDifference": "+549"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-16991"
         },
         {
           "title": "Who (Beautiful Mind Remix)",
@@ -1648,13 +1648,13 @@
           "release": "Who (Remixes)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e027f35adfbec3bb2bc8256802b",
-          "previousStreams": 59705139,
-          "dailyGain": 17040,
-          "yesterdayGain": 16599,
-          "gainDifference": 441,
+          "previousStreams": 59722179,
+          "dailyGain": 0,
+          "yesterdayGain": 17040,
+          "gainDifference": -17040,
           "formattedStreams": "59.7M",
-          "formattedDailyGain": "+17K",
-          "formattedGainDifference": "+441"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-17040"
         }
       ]
     },
@@ -1663,7 +1663,7 @@
       "type": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
       "streams": 2818855016,
-      "dailyGain": 542762,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "Like Crazy",
@@ -1672,13 +1672,13 @@
           "release": "FACE",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
-          "previousStreams": 1475650036,
-          "dailyGain": 233282,
-          "yesterdayGain": 240195,
-          "gainDifference": -6913,
+          "previousStreams": 1475883318,
+          "dailyGain": 0,
+          "yesterdayGain": 233282,
+          "gainDifference": -233282,
           "formattedStreams": "1.48B",
-          "formattedDailyGain": "+233.3K",
-          "formattedGainDifference": "-6913"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-233282"
         },
         {
           "title": "Set Me Free Pt.2",
@@ -1687,13 +1687,13 @@
           "release": "FACE",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
-          "previousStreams": 485231504,
-          "dailyGain": 155863,
-          "yesterdayGain": 165609,
-          "gainDifference": -9746,
+          "previousStreams": 485387367,
+          "dailyGain": 0,
+          "yesterdayGain": 155863,
+          "gainDifference": -155863,
           "formattedStreams": "485.4M",
-          "formattedDailyGain": "+155.9K",
-          "formattedGainDifference": "-9746"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-155863"
         },
         {
           "title": "Like Crazy (English Version)",
@@ -1702,13 +1702,13 @@
           "release": "FACE",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
-          "previousStreams": 403237714,
-          "dailyGain": 55382,
-          "yesterdayGain": 58173,
-          "gainDifference": -2791,
+          "previousStreams": 403293096,
+          "dailyGain": 0,
+          "yesterdayGain": 55382,
+          "gainDifference": -55382,
           "formattedStreams": "403.3M",
-          "formattedDailyGain": "+55.4K",
-          "formattedGainDifference": "-2791"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-55382"
         },
         {
           "title": "Face-off",
@@ -1717,13 +1717,13 @@
           "release": "FACE",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
-          "previousStreams": 170012580,
-          "dailyGain": 40026,
-          "yesterdayGain": 42164,
-          "gainDifference": -2138,
+          "previousStreams": 170052606,
+          "dailyGain": 0,
+          "yesterdayGain": 40026,
+          "gainDifference": -40026,
           "formattedStreams": "170.1M",
-          "formattedDailyGain": "+40K",
-          "formattedGainDifference": "-2138"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-40026"
         },
         {
           "title": "Alone",
@@ -1732,13 +1732,13 @@
           "release": "FACE",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
-          "previousStreams": 156880031,
-          "dailyGain": 41058,
-          "yesterdayGain": 42131,
-          "gainDifference": -1073,
+          "previousStreams": 156921089,
+          "dailyGain": 0,
+          "yesterdayGain": 41058,
+          "gainDifference": -41058,
           "formattedStreams": "156.9M",
-          "formattedDailyGain": "+41.1K",
-          "formattedGainDifference": "-1073"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-41058"
         },
         {
           "title": "Interlude : Dive",
@@ -1747,13 +1747,13 @@
           "release": "FACE",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e022b46078245d0120690eb560d",
-          "previousStreams": 127300389,
-          "dailyGain": 17151,
-          "yesterdayGain": 17514,
-          "gainDifference": -363,
+          "previousStreams": 127317540,
+          "dailyGain": 0,
+          "yesterdayGain": 17151,
+          "gainDifference": -17151,
           "formattedStreams": "127.3M",
-          "formattedDailyGain": "+17.2K",
-          "formattedGainDifference": "-363"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-17151"
         }
       ]
     },
@@ -1762,7 +1762,7 @@
       "type": "EP",
       "image": "https://i.scdn.co/image/ab67616d00001e02f9638e7ed5b7d42e9c514195",
       "streams": 1979403379,
-      "dailyGain": 303360,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "Like Crazy",
@@ -1771,13 +1771,13 @@
           "release": "Like Crazy (Remixes)",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e02f9638e7ed5b7d42e9c514195",
-          "previousStreams": 1475650036,
-          "dailyGain": 233282,
-          "yesterdayGain": 240195,
-          "gainDifference": -6913,
+          "previousStreams": 1475883318,
+          "dailyGain": 0,
+          "yesterdayGain": 233282,
+          "gainDifference": -233282,
           "formattedStreams": "1.48B",
-          "formattedDailyGain": "+233.3K",
-          "formattedGainDifference": "-6913"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-233282"
         },
         {
           "title": "Like Crazy (English Version)",
@@ -1786,13 +1786,13 @@
           "release": "Like Crazy (Remixes)",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e02f9638e7ed5b7d42e9c514195",
-          "previousStreams": 403237714,
-          "dailyGain": 55382,
-          "yesterdayGain": 58173,
-          "gainDifference": -2791,
+          "previousStreams": 403293096,
+          "dailyGain": 0,
+          "yesterdayGain": 55382,
+          "gainDifference": -55382,
           "formattedStreams": "403.3M",
-          "formattedDailyGain": "+55.4K",
-          "formattedGainDifference": "-2791"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-55382"
         },
         {
           "title": "Like Crazy (Deep House Remix)",
@@ -1801,13 +1801,13 @@
           "release": "Like Crazy (Remixes)",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e02f9638e7ed5b7d42e9c514195",
-          "previousStreams": 37789926,
-          "dailyGain": 5375,
-          "yesterdayGain": 5972,
-          "gainDifference": -597,
+          "previousStreams": 37795301,
+          "dailyGain": 0,
+          "yesterdayGain": 5375,
+          "gainDifference": -5375,
           "formattedStreams": "37.8M",
-          "formattedDailyGain": "+5.4K",
-          "formattedGainDifference": "-597"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-5375"
         },
         {
           "title": "Like Crazy (UK Garage Remix)",
@@ -1816,13 +1816,13 @@
           "release": "Like Crazy (Remixes)",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e02f9638e7ed5b7d42e9c514195",
-          "previousStreams": 35951313,
-          "dailyGain": 4946,
-          "yesterdayGain": 5072,
-          "gainDifference": -126,
+          "previousStreams": 35956259,
+          "dailyGain": 0,
+          "yesterdayGain": 4946,
+          "gainDifference": -4946,
           "formattedStreams": "36M",
-          "formattedDailyGain": "+4.9K",
-          "formattedGainDifference": "-126"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-4946"
         },
         {
           "title": "Like Crazy (Instrumental)",
@@ -1831,23 +1831,38 @@
           "release": "Like Crazy (Remixes)",
           "releaseType": "EP",
           "image": "https://i.scdn.co/image/ab67616d00001e02f9638e7ed5b7d42e9c514195",
-          "previousStreams": 26471030,
-          "dailyGain": 4375,
-          "yesterdayGain": 4726,
-          "gainDifference": -351,
+          "previousStreams": 26475405,
+          "dailyGain": 0,
+          "yesterdayGain": 4375,
+          "gainDifference": -4375,
           "formattedStreams": "26.5M",
-          "formattedDailyGain": "+4.4K",
-          "formattedGainDifference": "-351"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-4375"
         }
       ]
     },
     {
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
       "type": "SINGLE",
-      "image": "https://i.scdn.co/image/ab67616d00001e0221ba737cb75af968200cf4bc",
-      "streams": 820159870,
-      "dailyGain": 132224,
+      "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
+      "streams": 820233025,
+      "dailyGain": 73155,
       "songs": [
+        {
+          "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+          "streams": 248202561,
+          "trackId": "4TZYldxfZlV3hKtZGl8kRb",
+          "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
+          "releaseType": "SINGLE",
+          "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
+          "previousStreams": 248169292,
+          "dailyGain": 33269,
+          "yesterdayGain": 29763,
+          "gainDifference": 3506,
+          "formattedStreams": "248.2M",
+          "formattedDailyGain": "+33.3K",
+          "formattedGainDifference": "+3.5K"
+        },
         {
           "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
           "streams": 248169292,
@@ -1855,28 +1870,28 @@
           "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0221ba737cb75af968200cf4bc",
-          "previousStreams": 248139529,
-          "dailyGain": 29763,
-          "yesterdayGain": 31794,
-          "gainDifference": -2031,
+          "previousStreams": 248169292,
+          "dailyGain": 0,
+          "yesterdayGain": 29763,
+          "gainDifference": -29763,
           "formattedStreams": "248.2M",
-          "formattedDailyGain": "+29.8K",
-          "formattedGainDifference": "-2031"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-29763"
         },
         {
-          "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-          "streams": 248169292,
-          "trackId": "4TZYldxfZlV3hKtZGl8kRb",
+          "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
+          "streams": 134311639,
+          "trackId": "2yjeXq5ahx6UUg2rHaUe6X",
           "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
-          "previousStreams": 248139529,
-          "dailyGain": 29763,
-          "yesterdayGain": 31794,
-          "gainDifference": -2031,
-          "formattedStreams": "248.2M",
-          "formattedDailyGain": "+29.8K",
-          "formattedGainDifference": "-2031"
+          "previousStreams": 134271753,
+          "dailyGain": 39886,
+          "yesterdayGain": 32856,
+          "gainDifference": 7030,
+          "formattedStreams": "134.3M",
+          "formattedDailyGain": "+39.9K",
+          "formattedGainDifference": "+7K"
         },
         {
           "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
@@ -1885,28 +1900,13 @@
           "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0221ba737cb75af968200cf4bc",
-          "previousStreams": 134238897,
-          "dailyGain": 32856,
-          "yesterdayGain": 34981,
-          "gainDifference": -2125,
+          "previousStreams": 134271753,
+          "dailyGain": 0,
+          "yesterdayGain": 32856,
+          "gainDifference": -32856,
           "formattedStreams": "134.3M",
-          "formattedDailyGain": "+32.9K",
-          "formattedGainDifference": "-2125"
-        },
-        {
-          "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
-          "streams": 134271753,
-          "trackId": "2yjeXq5ahx6UUg2rHaUe6X",
-          "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
-          "releaseType": "SINGLE",
-          "image": "https://i.scdn.co/image/ab67616d00001e02be4afaf12bdbcfd17d95f22b",
-          "previousStreams": 134238897,
-          "dailyGain": 32856,
-          "yesterdayGain": 34981,
-          "gainDifference": -2125,
-          "formattedStreams": "134.3M",
-          "formattedDailyGain": "+32.9K",
-          "formattedGainDifference": "-2125"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-32856"
         },
         {
           "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
@@ -1915,13 +1915,13 @@
           "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0221ba737cb75af968200cf4bc",
-          "previousStreams": 55270794,
-          "dailyGain": 6986,
-          "yesterdayGain": 6961,
-          "gainDifference": 25,
+          "previousStreams": 55277780,
+          "dailyGain": 0,
+          "yesterdayGain": 6986,
+          "gainDifference": -6986,
           "formattedStreams": "55.3M",
-          "formattedDailyGain": "+7K",
-          "formattedGainDifference": "+25"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-6986"
         }
       ]
     },
@@ -1930,7 +1930,7 @@
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e024f4ec2c2a865569bd4a067a4",
       "streams": 485387367,
-      "dailyGain": 155863,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "Set Me Free Pt.2",
@@ -1939,13 +1939,13 @@
           "release": "Set Me Free Pt.2",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e024f4ec2c2a865569bd4a067a4",
-          "previousStreams": 485231504,
-          "dailyGain": 155863,
-          "yesterdayGain": 165609,
-          "gainDifference": -9746,
+          "previousStreams": 485387367,
+          "dailyGain": 0,
+          "yesterdayGain": 155863,
+          "gainDifference": -155863,
           "formattedStreams": "485.4M",
-          "formattedDailyGain": "+155.9K",
-          "formattedGainDifference": "-9746"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-155863"
         }
       ]
     },
@@ -1953,23 +1953,23 @@
       "title": "Be Mine (English Version)",
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0219655636129722b4bd720dbc",
-      "streams": 404375899,
-      "dailyGain": 213879,
+      "streams": 404598578,
+      "dailyGain": 0,
       "songs": [
         {
-          "title": "Be Mine (English Version)",
-          "streams": 404375899,
+          "title": "Be Mine - English Version",
+          "streams": 404598578,
           "trackId": "4DairgmwgyfmFHm0e7kRPL",
           "release": "Be Mine (English Version)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0219655636129722b4bd720dbc",
-          "previousStreams": 404162020,
-          "dailyGain": 213879,
-          "yesterdayGain": 217303,
-          "gainDifference": -3424,
-          "formattedStreams": "404.4M",
-          "formattedDailyGain": "+213.9K",
-          "formattedGainDifference": "-3424"
+          "previousStreams": 404598578,
+          "dailyGain": 0,
+          "yesterdayGain": 0,
+          "gainDifference": 0,
+          "formattedStreams": "404.6M",
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "0"
         }
       ]
     },
@@ -1978,7 +1978,7 @@
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
       "streams": 393808535,
-      "dailyGain": 65475,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "Angel Pt. 1 (feat. Kodak Black, NLE Choppa, Jimin of BTS, JVKE & Muni Long)",
@@ -1987,13 +1987,13 @@
           "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
-          "previousStreams": 248139529,
-          "dailyGain": 29763,
-          "yesterdayGain": 31794,
-          "gainDifference": -2031,
+          "previousStreams": 248169292,
+          "dailyGain": 0,
+          "yesterdayGain": 29763,
+          "gainDifference": -29763,
           "formattedStreams": "248.2M",
-          "formattedDailyGain": "+29.8K",
-          "formattedGainDifference": "-2031"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-29763"
         },
         {
           "title": "Angel Pt. 2 (feat. Jimin of BTS & JVKE feat. Charlie Puth & Muni Long)",
@@ -2002,13 +2002,13 @@
           "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
-          "previousStreams": 134238897,
-          "dailyGain": 32856,
-          "yesterdayGain": 34981,
-          "gainDifference": -2125,
+          "previousStreams": 134271753,
+          "dailyGain": 0,
+          "yesterdayGain": 32856,
+          "gainDifference": -32856,
           "formattedStreams": "134.3M",
-          "formattedDailyGain": "+32.9K",
-          "formattedGainDifference": "-2125"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-32856"
         },
         {
           "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
@@ -2017,13 +2017,13 @@
           "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0232107dc4737279267c8e00f5",
-          "previousStreams": 5682317,
-          "dailyGain": 1428,
-          "yesterdayGain": 1430,
-          "gainDifference": -2,
+          "previousStreams": 5683745,
+          "dailyGain": 0,
+          "yesterdayGain": 1428,
+          "gainDifference": -1428,
           "formattedStreams": "5.7M",
-          "formattedDailyGain": "+1.4K",
-          "formattedGainDifference": "-2"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-1428"
         },
         {
           "title": "Angel (feat. Muni Long, JVKE, NLE Choppa) (Anniversary Edition)",
@@ -2032,13 +2032,13 @@
           "release": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e025cae2e3d2932cd9283cc53ff",
-          "previousStreams": 5682317,
-          "dailyGain": 1428,
-          "yesterdayGain": 1430,
-          "gainDifference": -2,
+          "previousStreams": 5683745,
+          "dailyGain": 0,
+          "yesterdayGain": 1428,
+          "gainDifference": -1428,
           "formattedStreams": "5.7M",
-          "formattedDailyGain": "+1.4K",
-          "formattedGainDifference": "-2"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-1428"
         }
       ]
     },
@@ -2046,38 +2046,38 @@
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02445afb6341d2685b959251cc",
-      "streams": 358724852,
-      "dailyGain": 43735,
+      "streams": 358765516,
+      "dailyGain": 40664,
       "songs": [
         {
           "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-          "streams": 248169292,
+          "streams": 248202561,
           "trackId": "1vvcEHQdaUTvWt0EIUYcFK",
           "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02445afb6341d2685b959251cc",
-          "previousStreams": 248139529,
-          "dailyGain": 29763,
-          "yesterdayGain": 31794,
-          "gainDifference": -2031,
+          "previousStreams": 248169292,
+          "dailyGain": 33269,
+          "yesterdayGain": 29763,
+          "gainDifference": 3506,
           "formattedStreams": "248.2M",
-          "formattedDailyGain": "+29.8K",
-          "formattedGainDifference": "-2031"
+          "formattedDailyGain": "+33.3K",
+          "formattedGainDifference": "+3.5K"
         },
         {
           "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
-          "streams": 55277780,
+          "streams": 55285175,
           "trackId": "2GhOHZynysGm5B8R6iCihi",
           "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02445afb6341d2685b959251cc",
-          "previousStreams": 55270794,
-          "dailyGain": 6986,
-          "yesterdayGain": 6961,
-          "gainDifference": 25,
+          "previousStreams": 55277780,
+          "dailyGain": 7395,
+          "yesterdayGain": 6986,
+          "gainDifference": 409,
           "formattedStreams": "55.3M",
-          "formattedDailyGain": "+7K",
-          "formattedGainDifference": "+25"
+          "formattedDailyGain": "+7.4K",
+          "formattedGainDifference": "+409"
         },
         {
           "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
@@ -2086,13 +2086,13 @@
           "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02146ea147ce8c185e71b3b84e",
-          "previousStreams": 55270794,
-          "dailyGain": 6986,
-          "yesterdayGain": 6961,
-          "gainDifference": 25,
+          "previousStreams": 55277780,
+          "dailyGain": 0,
+          "yesterdayGain": 6986,
+          "gainDifference": -6986,
           "formattedStreams": "55.3M",
-          "formattedDailyGain": "+7K",
-          "formattedGainDifference": "+25"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-6986"
         }
       ]
     },
@@ -2101,7 +2101,7 @@
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02d90bd8b97e49216c00e55d18",
       "streams": 349855817,
-      "dailyGain": 41897,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "With you",
@@ -2110,13 +2110,13 @@
           "release": "Our Blues, Pt. 4 (Original Television Soundtrack)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02d90bd8b97e49216c00e55d18",
-          "previousStreams": 327877972,
-          "dailyGain": 40715,
-          "yesterdayGain": 42746,
-          "gainDifference": -2031,
+          "previousStreams": 327918687,
+          "dailyGain": 0,
+          "yesterdayGain": 40715,
+          "gainDifference": -40715,
           "formattedStreams": "327.9M",
-          "formattedDailyGain": "+40.7K",
-          "formattedGainDifference": "-2031"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-40715"
         },
         {
           "title": "With you - Instrumental",
@@ -2125,13 +2125,13 @@
           "release": "Our Blues, Pt. 4 (Original Television Soundtrack)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02d90bd8b97e49216c00e55d18",
-          "previousStreams": 21935948,
-          "dailyGain": 1182,
-          "yesterdayGain": 1170,
-          "gainDifference": 12,
+          "previousStreams": 21937130,
+          "dailyGain": 0,
+          "yesterdayGain": 1182,
+          "gainDifference": -1182,
           "formattedStreams": "21.9M",
-          "formattedDailyGain": "+1.2K",
-          "formattedGainDifference": "+12"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-1182"
         }
       ]
     },
@@ -2140,7 +2140,7 @@
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02e3dbc03f538633dbb40adf37",
       "streams": 336516010,
-      "dailyGain": 73696,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "Closer Than This",
@@ -2149,13 +2149,13 @@
           "release": "Closer Than This",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02e3dbc03f538633dbb40adf37",
-          "previousStreams": 336442314,
-          "dailyGain": 73696,
-          "yesterdayGain": 79391,
-          "gainDifference": -5695,
+          "previousStreams": 336516010,
+          "dailyGain": 0,
+          "yesterdayGain": 73696,
+          "gainDifference": -73696,
           "formattedStreams": "336.5M",
-          "formattedDailyGain": "+73.7K",
-          "formattedGainDifference": "-5695"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-73696"
         }
       ]
     },
@@ -2164,7 +2164,7 @@
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02278d6cf14513bd97cb580fe7",
       "streams": 278669997,
-      "dailyGain": 51285,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "VIBE (feat. Jimin of BTS)",
@@ -2173,13 +2173,13 @@
           "release": "VIBE (feat. Jimin of BTS)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02278d6cf14513bd97cb580fe7",
-          "previousStreams": 278618712,
-          "dailyGain": 51285,
-          "yesterdayGain": 55602,
-          "gainDifference": -4317,
+          "previousStreams": 278669997,
+          "dailyGain": 0,
+          "yesterdayGain": 51285,
+          "gainDifference": -51285,
           "formattedStreams": "278.7M",
-          "formattedDailyGain": "+51.3K",
-          "formattedGainDifference": "-4317"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-51285"
         }
       ]
     },
@@ -2188,7 +2188,7 @@
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0238881a83135ef5b4ace418ba",
       "streams": 278212605,
-      "dailyGain": 75951,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "Smeraldo Garden Marching Band (feat. Loco)",
@@ -2197,13 +2197,13 @@
           "release": "Smeraldo Garden Marching Band (feat. Loco)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0238881a83135ef5b4ace418ba",
-          "previousStreams": 278136654,
-          "dailyGain": 75951,
-          "yesterdayGain": 81511,
-          "gainDifference": -5560,
+          "previousStreams": 278212605,
+          "dailyGain": 0,
+          "yesterdayGain": 75951,
+          "gainDifference": -75951,
           "formattedStreams": "278.2M",
-          "formattedDailyGain": "+76K",
-          "formattedGainDifference": "-5560"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-75951"
         }
       ]
     },
@@ -2211,23 +2211,23 @@
       "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack)",
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02beac2a5a6392353b63e5ef15",
-      "streams": 248169292,
-      "dailyGain": 29763,
+      "streams": 248202561,
+      "dailyGain": 33269,
       "songs": [
         {
           "title": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-          "streams": 248169292,
+          "streams": 248202561,
           "trackId": "4g1Ant3Me43Cm5Lx91bV8e",
           "release": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02beac2a5a6392353b63e5ef15",
-          "previousStreams": 248139529,
-          "dailyGain": 29763,
-          "yesterdayGain": 31794,
-          "gainDifference": -2031,
+          "previousStreams": 248169292,
+          "dailyGain": 33269,
+          "yesterdayGain": 29763,
+          "gainDifference": 3506,
           "formattedStreams": "248.2M",
-          "formattedDailyGain": "+29.8K",
-          "formattedGainDifference": "-2031"
+          "formattedDailyGain": "+33.3K",
+          "formattedGainDifference": "+3.5K"
         }
       ]
     },
@@ -2236,7 +2236,7 @@
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0221d21c44fa7a2495c37ce088",
       "streams": 151753985,
-      "dailyGain": 63567,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "Promise",
@@ -2245,13 +2245,13 @@
           "release": "Promise",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0221d21c44fa7a2495c37ce088",
-          "previousStreams": 151690418,
-          "dailyGain": 63567,
-          "yesterdayGain": 65639,
-          "gainDifference": -2072,
+          "previousStreams": 151753985,
+          "dailyGain": 0,
+          "yesterdayGain": 63567,
+          "gainDifference": -63567,
           "formattedStreams": "151.8M",
-          "formattedDailyGain": "+63.6K",
-          "formattedGainDifference": "-2072"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-63567"
         }
       ]
     },
@@ -2260,7 +2260,7 @@
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
       "streams": 146622221,
-      "dailyGain": 36151,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "Angel Pt. 2",
@@ -2269,13 +2269,13 @@
           "release": "Angel Pt. 2 (Acoustic Version)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
-          "previousStreams": 134238897,
-          "dailyGain": 32856,
-          "yesterdayGain": 34981,
-          "gainDifference": -2125,
+          "previousStreams": 134271753,
+          "dailyGain": 0,
+          "yesterdayGain": 32856,
+          "gainDifference": -32856,
           "formattedStreams": "134.3M",
-          "formattedDailyGain": "+32.9K",
-          "formattedGainDifference": "-2125"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-32856"
         },
         {
           "title": "Angel Pt. 2 - Acoustic Version",
@@ -2284,13 +2284,13 @@
           "release": "Angel Pt. 2 (Acoustic Version)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
-          "previousStreams": 8148171,
-          "dailyGain": 2096,
-          "yesterdayGain": 1951,
-          "gainDifference": 145,
+          "previousStreams": 8150267,
+          "dailyGain": 0,
+          "yesterdayGain": 2096,
+          "gainDifference": -2096,
           "formattedStreams": "8.2M",
-          "formattedDailyGain": "+2.1K",
-          "formattedGainDifference": "+145"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-2096"
         },
         {
           "title": "Angel Pt. 2 - Sped Up",
@@ -2299,13 +2299,13 @@
           "release": "Angel Pt. 2 (Acoustic Version)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e0279f6a219e637ccf7305d622d",
-          "previousStreams": 4199002,
-          "dailyGain": 1199,
-          "yesterdayGain": 1120,
-          "gainDifference": 79,
+          "previousStreams": 4200201,
+          "dailyGain": 0,
+          "yesterdayGain": 1199,
+          "gainDifference": -1199,
           "formattedStreams": "4.2M",
-          "formattedDailyGain": "+1.2K",
-          "formattedGainDifference": "+79"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-1199"
         }
       ]
     },
@@ -2314,7 +2314,7 @@
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e02deaa79daadaf2236d1ac1003",
       "streams": 138471954,
-      "dailyGain": 34055,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",
@@ -2323,13 +2323,13 @@
           "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up) [FAST X Soundtrack]",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02deaa79daadaf2236d1ac1003",
-          "previousStreams": 134238897,
-          "dailyGain": 32856,
-          "yesterdayGain": 34981,
-          "gainDifference": -2125,
+          "previousStreams": 134271753,
+          "dailyGain": 0,
+          "yesterdayGain": 32856,
+          "gainDifference": -32856,
           "formattedStreams": "134.3M",
-          "formattedDailyGain": "+32.9K",
-          "formattedGainDifference": "-2125"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-32856"
         },
         {
           "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up)",
@@ -2338,13 +2338,13 @@
           "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up) [FAST X Soundtrack]",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e02deaa79daadaf2236d1ac1003",
-          "previousStreams": 4199002,
-          "dailyGain": 1199,
-          "yesterdayGain": 1120,
-          "gainDifference": 79,
+          "previousStreams": 4200201,
+          "dailyGain": 0,
+          "yesterdayGain": 1199,
+          "gainDifference": -1199,
           "formattedStreams": "4.2M",
-          "formattedDailyGain": "+1.2K",
-          "formattedGainDifference": "+79"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-1199"
         }
       ]
     },
@@ -2353,7 +2353,7 @@
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e023af4efcbc640cf0cb0888d63",
       "streams": 134271753,
-      "dailyGain": 32856,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
@@ -2362,13 +2362,13 @@
           "release": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e023af4efcbc640cf0cb0888d63",
-          "previousStreams": 134238897,
-          "dailyGain": 32856,
-          "yesterdayGain": 34981,
-          "gainDifference": -2125,
+          "previousStreams": 134271753,
+          "dailyGain": 0,
+          "yesterdayGain": 32856,
+          "gainDifference": -32856,
           "formattedStreams": "134.3M",
-          "formattedDailyGain": "+32.9K",
-          "formattedGainDifference": "-2125"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-32856"
         }
       ]
     },
@@ -2377,7 +2377,7 @@
       "type": "SINGLE",
       "image": "https://i.scdn.co/image/ab67616d00001e026102fbfee73db153a32d02ab",
       "streams": 50163724,
-      "dailyGain": 11243,
+      "dailyGain": 0,
       "songs": [
         {
           "title": "Christmas Love",
@@ -2386,13 +2386,13 @@
           "release": "Christmas Love",
           "releaseType": "SINGLE",
           "image": "https://i.scdn.co/image/ab67616d00001e026102fbfee73db153a32d02ab",
-          "previousStreams": 50152481,
-          "dailyGain": 11243,
-          "yesterdayGain": 12009,
-          "gainDifference": -766,
+          "previousStreams": 50163724,
+          "dailyGain": 0,
+          "yesterdayGain": 11243,
+          "gainDifference": -11243,
           "formattedStreams": "50.2M",
-          "formattedDailyGain": "+11.2K",
-          "formattedGainDifference": "-766"
+          "formattedDailyGain": "0",
+          "formattedGainDifference": "-11243"
         }
       ]
     }
