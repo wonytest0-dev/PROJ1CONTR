@@ -1,12 +1,12 @@
 [
   {
-    "date": "2026-09-02",
+    "date": "2026-09-01",
     "sentinel": 2527229770,
     "totalStreams": 8582288315,
     "totalDailyGain": 0
   },
   {
-    "date": "2026-09-03",
+    "date": "2026-09-02",
     "sentinel": 2528557269,
     "totalStreams": 8585303619,
     "totalDailyGain": 3015304
