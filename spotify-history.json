@@ -22,5 +22,11 @@
     "sentinel": 2531150209,
     "totalStreams": 8591248210,
     "totalDailyGain": 3031811
+  },
+  {
+    "date": "2026-09-05",
+    "sentinel": 2532338275,
+    "totalStreams": 8593981748,
+    "totalDailyGain": 2733538
   }
 ]
